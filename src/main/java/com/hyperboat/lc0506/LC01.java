@@ -1,10 +1,9 @@
+package com.hyperboat.lc0506;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
-import java.util.function.Consumer;
-import java.util.function.IntPredicate;
-import java.util.function.Supplier;
 
 public class LC01 {
     public static void main(String[] args) {
@@ -56,7 +55,7 @@ public class LC01 {
             map.put(nums[i], i);
         }
         Integer t;
-        int target = 0;
+        int target;
         for (int i = 0; i < nums.length; ++i) {
             target = -nums[i];
             //去重
@@ -178,7 +177,7 @@ public class LC01 {
         return arr;
     }
 
-/*    *//**
+    /*    *//**
      * show n数之和
      *
      * @param nums   指定数组
@@ -201,7 +200,7 @@ public class LC01 {
             return new ArrayList<>();
         }
         *//*[-13, -11, -6, -6, -5, -4, 0, 1, 1, 5, 8, 10, 12, 13, 20]*//*
-        *//*[-13, -11, -6, -6, -5, -4, 1, 1, 5, 8, 10, 12, 13, 20]*//*
+     *//*[-13, -11, -6, -6, -5, -4, 1, 1, 5, 8, 10, 12, 13, 20]*//*
         Arrays.sort(nums);
         List<List<Integer>> results = new ArrayList<>();
         List<List<Integer>> lists = new ArrayList<>();
