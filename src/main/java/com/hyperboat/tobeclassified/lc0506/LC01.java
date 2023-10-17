@@ -1,4 +1,4 @@
-package com.hyperboat.lc0506;
+package com.hyperboat.tobeclassified.lc0506;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,6 +1,5 @@
-package com.hyperboat.lc0506;
+package com.hyperboat.tobeclassified.lc0506;
 
-import sun.reflect.generics.tree.Tree;
 
 /*
 988. 从叶结点开始的最小字符串

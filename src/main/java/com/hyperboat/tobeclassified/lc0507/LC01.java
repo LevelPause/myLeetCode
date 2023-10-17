@@ -1,4 +1,4 @@
-package com.hyperboat.lc0507;
+package com.hyperboat.tobeclassified.lc0507;
 
 /**
  * 1486. 数组异或操作
