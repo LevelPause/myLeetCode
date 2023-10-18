@@ -1,4 +1,4 @@
-package com.hyperboat.面试经典150题.LC169;
+package com.hyperboat.面试经典150题;
 
 import java.util.Arrays;
 

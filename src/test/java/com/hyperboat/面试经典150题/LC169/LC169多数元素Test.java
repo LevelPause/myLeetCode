@@ -2,6 +2,7 @@ package com.hyperboat.面试经典150题.LC169;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+import com.hyperboat.面试经典150题.LC169多数元素;
 import org.junit.jupiter.api.Test;
 
 /**
