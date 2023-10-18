@@ -1,7 +1,8 @@
-package com.hyperboat.面试经典150题;
+package com.hyperboat.面试经典150题.数组_字符串;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+import com.hyperboat.面试经典150题.数组_字符串.LC27移除元素;
 import org.junit.jupiter.api.Test;
 
 /**
