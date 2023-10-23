@@ -16,29 +16,13 @@ public class LC167两数之和II输入有序数组 {
     while (start < end) {
       int sum = numbers[start] + numbers[end];
       if (sum == target) {
-        res[0] = start;
-        res[1] = end;
+        res[0] = start + 1;
+        res[1] = end + 1;
         break;
       } else if (sum < target) {
         start++;
       } else {
         end--;
-      }
-    }
-    return res;
-  }
-
-  public int[] twoSum1(int[] numbers, int target) {
-    int[] res = new int[2];
-    Map<Integer, Integer> nums = new HashMap<>();
-    for (int i = 0; i < numbers.length; i++) {
-      nums.put(numbers[i], i);
-    }
-    for (int i = 0; i < numbers.length; i++) {
-      Integer index = nums.get(target - numbers[i]);
-      if (index != null && index > i) {
-        res[0] = i;
-        res[1] = index;
       }
     }
     return res;
