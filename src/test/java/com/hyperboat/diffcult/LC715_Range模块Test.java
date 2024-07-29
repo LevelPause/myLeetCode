@@ -9,11 +9,11 @@ import org.junit.jupiter.api.Test;
  * @author zhangweigang
  * @date 2022年06月20日 5:25
  */
-class LC715_Range模块Test {
+class _715_Range模块Test {
 
   @Test
   void addRange() {
-    LC715_Range模块 rangeModule = new LC715_Range模块();
+    _715_Range模块 rangeModule = new _715_Range模块();
     rangeModule.addRange(10, 20);
     rangeModule.removeRange(14, 16);
     assertTrue(rangeModule.queryRange(10, 14)); /*返回 true （区间 [10, 14) 中的每个数都正在被跟踪）*/

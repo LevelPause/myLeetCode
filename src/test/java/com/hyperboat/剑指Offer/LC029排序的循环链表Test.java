@@ -1,8 +1,8 @@
 package com.hyperboat.剑指Offer;
 
 
-import com.hyperboat.medium.剑指Offer.LC029排序的循环链表;
-import com.hyperboat.medium.剑指Offer.LC029排序的循环链表.Node;
+import com.hyperboat.medium.剑指Offer._029排序的循环链表;
+import com.hyperboat.medium.剑指Offer._029排序的循环链表.Node;
 import java.util.stream.Stream;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.params.ParameterizedTest;
@@ -13,13 +13,13 @@ import org.junit.jupiter.params.provider.MethodSource;
  * @author zhangweigang
  * @date 2022年06月20日 0:50
  */
-class LC029排序的循环链表Test {
+class _029排序的循环链表Test {
 
 
   @ParameterizedTest
   @MethodSource("nodeIntAndListProvider")
-  void insert(LC029排序的循环链表.Node head, int insertVal, int[] result) {
-    Node node = new LC029排序的循环链表().insert(head, insertVal);
+  void insert(_029排序的循环链表.Node head, int insertVal, int[] result) {
+    Node node = new _029排序的循环链表().insert(head, insertVal);
     Assertions.assertArrayEquals(node.values(), result);
   }
 

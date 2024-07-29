@@ -8,12 +8,12 @@ import org.junit.jupiter.api.Test;
  * @author zhangweigang
  * @date 2023年10月23日
  */
-class LC11盛最多水的容器Test {
+class _11盛最多水的容器Test {
 
   @Test
   void maxArea() {
-    assertEquals(49, new LC11盛最多水的容器().maxArea(new int[]{1, 8, 6, 2, 5, 4, 8, 3, 7}));
-    assertEquals(1, new LC11盛最多水的容器().maxArea(new int[]{1, 1}));
-    assertEquals(36, new LC11盛最多水的容器().maxArea(new int[]{2,3,10,5,7,8,9}));
+    assertEquals(49, new _11盛最多水的容器().maxArea(new int[]{1, 8, 6, 2, 5, 4, 8, 3, 7}));
+    assertEquals(1, new _11盛最多水的容器().maxArea(new int[]{1, 1}));
+    assertEquals(36, new _11盛最多水的容器().maxArea(new int[]{2,3,10,5,7,8,9}));
   }
 }

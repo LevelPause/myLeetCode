@@ -10,7 +10,7 @@ import org.junit.jupiter.api.Test;
  * @author zhangweigang
  * @date 2023年10月23日
  */
-class LC15三数之和Test {
+class _15三数之和Test {
 
   @Test
   void threeSum() {
@@ -25,9 +25,9 @@ class LC15三数之和Test {
     int12.add(-1);
     integers1.add(int11);
     integers1.add(int12);
-    assertEquals(integers1, new LC15三数之和().threeSum(new int[]{-1, 0, 1, 2, -1, -4}));
+    assertEquals(integers1, new _15三数之和().threeSum(new int[]{-1, 0, 1, 2, -1, -4}));
 
-    assertEquals(new ArrayList<>(), new LC15三数之和().threeSum(new int[]{0, 1, 1}));
+    assertEquals(new ArrayList<>(), new _15三数之和().threeSum(new int[]{0, 1, 1}));
 
     List<List<Integer>> integers2 = new ArrayList<>();
     List<Integer> int21 = new ArrayList<>();
@@ -35,7 +35,7 @@ class LC15三数之和Test {
     int21.add(0);
     int21.add(0);
     integers2.add(int21);
-    assertEquals(integers2, new LC15三数之和().threeSum(new int[]{0, 0, 0}));
+    assertEquals(integers2, new _15三数之和().threeSum(new int[]{0, 0, 0}));
 
   }
 }

@@ -35,18 +35,18 @@
 //
 //  public List<Integer> preorder(Node root) {
 //    List<Integer> res = new ArrayList<>();
-//    calculateChild(root, res);
+//    ca_ulateChild(root, res);
 //    return res;
 //  }
 //
-//  private void calculateChild(Node node, List<Integer> res) {
+//  private void ca_ulateChild(Node node, List<Integer> res) {
 //    if (node == null) {
 //      return;
 //    }
 //    res.add(node.val);
 //
 //    for (Node child : node.children) {
-//      calculateChild(child, res);
+//      ca_ulateChild(child, res);
 //    }
 //    res.add(null);
 //  }

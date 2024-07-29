@@ -8,11 +8,11 @@ import org.junit.jupiter.api.Test;
  * @author zhangweigang
  * @date 2023年10月19日 3:46
  */
-class LC55跳跃游戏Test {
+class _55跳跃游戏Test {
 
   @Test
   void canJump() {
-    assertTrue(new LC55跳跃游戏().canJump(new int[]{2, 3, 1, 1, 4}));
-    assertTrue(new LC55跳跃游戏().canJump(new int[]{2,5,0,0}));
+    assertTrue(new _55跳跃游戏().canJump(new int[]{2, 3, 1, 1, 4}));
+    assertTrue(new _55跳跃游戏().canJump(new int[]{2,5,0,0}));
   }
 }

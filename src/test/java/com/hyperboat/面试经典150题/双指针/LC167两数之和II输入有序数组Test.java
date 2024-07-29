@@ -8,12 +8,12 @@ import org.junit.jupiter.api.Test;
  * @author zhangweigang
  * @date 2023年10月23日
  */
-class LC167两数之和II输入有序数组Test {
+class _167两数之和II输入有序数组Test {
 
   @Test
   void twoSum() {
-    assertArrayEquals(new int[]{1, 2}, new LC167两数之和II输入有序数组().twoSum(new int[]{2, 7, 11, 15}, 9));
-    assertArrayEquals(new int[]{1, 3}, new LC167两数之和II输入有序数组().twoSum(new int[]{2, 3, 4}, 6));
-    assertArrayEquals(new int[]{1, 2}, new LC167两数之和II输入有序数组().twoSum(new int[]{-1, 0}, -1));
+    assertArrayEquals(new int[]{1, 2}, new _167两数之和II输入有序数组().twoSum(new int[]{2, 7, 11, 15}, 9));
+    assertArrayEquals(new int[]{1, 3}, new _167两数之和II输入有序数组().twoSum(new int[]{2, 3, 4}, 6));
+    assertArrayEquals(new int[]{1, 2}, new _167两数之和II输入有序数组().twoSum(new int[]{-1, 0}, -1));
   }
 }

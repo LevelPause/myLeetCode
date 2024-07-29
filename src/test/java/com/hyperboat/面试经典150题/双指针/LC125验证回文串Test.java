@@ -8,13 +8,13 @@ import org.junit.jupiter.api.Test;
  * @author zhangweigang
  * @date 2023年10月22日
  */
-class LC125验证回文串Test {
+class _125验证回文串Test {
 
   @Test
   void isPalindrome() {
-    assertTrue(new LC125验证回文串().isPalindrome("A man, a plan, a canal: Panama"));
-    assertFalse(new LC125验证回文串().isPalindrome("race a car"));
-    assertTrue(new LC125验证回文串().isPalindrome(" "));
-    assertTrue(new LC125验证回文串().isPalindrome(".,"));
+    assertTrue(new _125验证回文串().isPalindrome("A man, a plan, a canal: Panama"));
+    assertFalse(new _125验证回文串().isPalindrome("race a car"));
+    assertTrue(new _125验证回文串().isPalindrome(" "));
+    assertTrue(new _125验证回文串().isPalindrome(".,"));
   }
 }

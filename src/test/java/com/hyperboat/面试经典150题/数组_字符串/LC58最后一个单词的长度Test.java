@@ -8,12 +8,12 @@ import org.junit.jupiter.api.Test;
  * @author zhangweigang
  * @date 2023年10月22日
  */
-class LC58最后一个单词的长度Test {
+class _58最后一个单词的长度Test {
 
   @Test
   void lengthOfLastWord() {
-    assertEquals(5,new LC58最后一个单词的长度().lengthOfLastWord("Hello World"));
-    assertEquals(4,new LC58最后一个单词的长度().lengthOfLastWord("   fly me   to   the moon  "));
-    assertEquals(6,new LC58最后一个单词的长度().lengthOfLastWord("luffy is still joyboy"));
+    assertEquals(5,new _58最后一个单词的长度().lengthOfLastWord("Hello World"));
+    assertEquals(4,new _58最后一个单词的长度().lengthOfLastWord("   fly me   to   the moon  "));
+    assertEquals(6,new _58最后一个单词的长度().lengthOfLastWord("luffy is still joyboy"));
   }
 }

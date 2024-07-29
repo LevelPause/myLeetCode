@@ -8,13 +8,13 @@ import org.junit.jupiter.api.Test;
  * @author zhangweigang
  * @date 2023年10月22日
  */
-class LC28找出字符串中第一个匹配项的下标Test {
+class _28找出字符串中第一个匹配项的下标Test {
 
   @Test
   void strStr() {
-//    assertEquals(0, new LC28找出字符串中第一个匹配项的下标().strStr("sadbutsad", "sad"));
-//    assertEquals(-1, new LC28找出字符串中第一个匹配项的下标().strStr("leetcode", "leeto"));
-    assertEquals(4, new LC28找出字符串中第一个匹配项的下标().strStr("mississippi", "issip"));
-    assertEquals(4, new LC28找出字符串中第一个匹配项的下标().strStr("mississippi", "issipi"));
+//    assertEquals(0, new _28找出字符串中第一个匹配项的下标().strStr("sadbutsad", "sad"));
+//    assertEquals(-1, new _28找出字符串中第一个匹配项的下标().strStr("leetcode", "leeto"));
+    assertEquals(4, new _28找出字符串中第一个匹配项的下标().strStr("mississippi", "issip"));
+    assertEquals(4, new _28找出字符串中第一个匹配项的下标().strStr("mississippi", "issipi"));
   }
 }

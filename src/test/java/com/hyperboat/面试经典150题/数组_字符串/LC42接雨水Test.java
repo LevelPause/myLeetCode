@@ -8,11 +8,11 @@ import org.junit.jupiter.api.Test;
  * @author zhangweigang
  * @date 2023年10月21日
  */
-class LC42接雨水Test {
+class _42接雨水Test {
 
   @Test
   void trap() {
-//    assertEquals(6, new LC42接雨水().trap(new int[]{0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1}));
-    assertEquals(9, new LC42接雨水().trap(new int[]{4,2,0,3,2,5}));
+//    assertEquals(6, new _42接雨水().trap(new int[]{0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1}));
+    assertEquals(9, new _42接雨水().trap(new int[]{4,2,0,3,2,5}));
   }
 }

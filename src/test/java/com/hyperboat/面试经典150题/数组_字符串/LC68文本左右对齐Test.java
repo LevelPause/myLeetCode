@@ -10,7 +10,7 @@ import org.junit.jupiter.api.Test;
  * @author zhangweigang
  * @date 2023年10月22日
  */
-class LC68文本左右对齐Test {
+class _68文本左右对齐Test {
 
   @Test
   void fullJustify() {
@@ -19,14 +19,14 @@ class LC68文本左右对齐Test {
     res.add("example  of text");
     res.add("justification.  ");
     assertEquals(
-        res, new LC68文本左右对齐().fullJustify(
+        res, new _68文本左右对齐().fullJustify(
             new String[]{"This", "is", "an", "example", "of", "text", "justification."}, 16));
     List<String> res1 = new ArrayList<>();
     res1.add("What   must   be");
     res1.add("acknowledgment  ");
     res1.add("shall be        ");
     assertEquals(
-        res1, new LC68文本左右对齐().fullJustify(
+        res1, new _68文本左右对齐().fullJustify(
             new String[]{"What", "must", "be", "acknowledgment", "shall", "be"}, 16));
     List<String> res2 = new ArrayList<>();
     res2.add("Science  is  what we");
@@ -36,7 +36,7 @@ class LC68文本左右对齐Test {
     res2.add("everything  else  we");
     res2.add("do                  ");
     assertEquals(
-        res2, new LC68文本左右对齐().fullJustify(
+        res2, new _68文本左右对齐().fullJustify(
             new String[]{"Science", "is", "what", "we", "understand", "well", "enough", "to",
                 "explain", "to", "a", "computer.", "Art", "is", "everything", "else", "we", "do"},
             20));
@@ -46,7 +46,7 @@ class LC68文本左右对齐Test {
     res3.add("world owes you nothing; it was");
     res3.add("here first.                   ");
     assertEquals(
-        res3, new LC68文本左右对齐().fullJustify(
+        res3, new _68文本左右对齐().fullJustify(
             new String[]{"Don't", "go", "around", "saying", "the", "world", "owes", "you", "a",
                 "living;", "the", "world", "owes", "you", "nothing;", "it", "was", "here",
                 "first."},

@@ -8,11 +8,11 @@ import org.junit.jupiter.api.Test;
  * @author zhangweigang
  * @date 2023年10月20日 5:31
  */
-class LC380_O1时间插入删除和获取随机元素Test {
+class _380_O1时间插入删除和获取随机元素Test {
 
   @Test
   void test() {
-    LC380_O1时间插入删除和获取随机元素 test = new LC380_O1时间插入删除和获取随机元素();
+    _380_O1时间插入删除和获取随机元素 test = new _380_O1时间插入删除和获取随机元素();
     assertTrue(test.insert(1));
     assertFalse(test.remove(2));
     assertTrue(test.insert(2));
@@ -23,7 +23,7 @@ class LC380_O1时间插入删除和获取随机元素Test {
   }
   @Test
   void test2() {
-    LC380_O1时间插入删除和获取随机元素 test = new LC380_O1时间插入删除和获取随机元素();
+    _380_O1时间插入删除和获取随机元素 test = new _380_O1时间插入删除和获取随机元素();
     assertFalse(test.remove(0));
     assertFalse(test.remove(0));
     assertTrue(test.insert(0));
