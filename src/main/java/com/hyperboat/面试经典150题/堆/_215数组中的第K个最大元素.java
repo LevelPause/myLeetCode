@@ -73,7 +73,7 @@ public class _215数组中的第K个最大元素 {
   }
 
   public void buildMinHeap(int[] nums, int heapSize) {
-    for (int i = heapSize - 1; i >= 0; i--) {
+    for (int i = (heapSize - 1)/2; i >= 0; i--) {
       minHeap(nums, i, heapSize);
     }
   }
