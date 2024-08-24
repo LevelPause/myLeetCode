@@ -1,0 +1,13 @@
+package com.hyperboat.hot100.回溯;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import java.util.Arrays;
+import org.junit.jupiter.api.Test;
+
+class _22_括号生成Test {
+@Test
+  public void test(){
+  assertEquals(Arrays.asList("((()))","(()())","(())()","()(())","()()()"),new _22_括号生成.Solution().generateParenthesis(3));
+}
+}
