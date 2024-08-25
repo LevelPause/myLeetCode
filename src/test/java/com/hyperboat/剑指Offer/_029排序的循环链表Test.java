@@ -1,8 +1,8 @@
 package com.hyperboat.剑指Offer;
 
 
-import com.hyperboat.medium.剑指Offer._029排序的循环链表;
-import com.hyperboat.medium.剑指Offer._029排序的循环链表.Node;
+import com.hyperboat.normal.medium.剑指Offer._029排序的循环链表;
+import com.hyperboat.normal.medium.剑指Offer._029排序的循环链表.Node;
 import java.util.stream.Stream;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.params.ParameterizedTest;

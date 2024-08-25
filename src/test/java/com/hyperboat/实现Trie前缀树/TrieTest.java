@@ -1,6 +1,6 @@
 package com.hyperboat.实现Trie前缀树;
 
-import com.hyperboat.tobeclassified.实现Trie前缀树.Trie;
+import com.hyperboat.normal.tobeclassified.实现Trie前缀树.Trie;
 import org.junit.jupiter.api.Test;
 
 

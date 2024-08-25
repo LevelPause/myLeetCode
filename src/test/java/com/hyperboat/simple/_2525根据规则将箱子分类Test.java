@@ -2,6 +2,7 @@ package com.hyperboat.simple;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+import com.hyperboat.normal.simple._2525根据规则将箱子分类;
 import org.junit.jupiter.api.Test;
 
 /**

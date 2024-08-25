@@ -1,7 +1,7 @@
 package com.hyperboat.allone;
 
 
-import com.hyperboat.tobeclassified.allone.AllOne;
+import com.hyperboat.normal.tobeclassified.allone.AllOne;
 import org.junit.jupiter.api.Test;
 
 /**

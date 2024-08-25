@@ -1,7 +1,7 @@
 package com.hyperboat.numberofcombinations;
 
 
-import com.hyperboat.tobeclassified.numberofcombinations.NumberOfCombinations;
+import com.hyperboat.normal.tobeclassified.numberofcombinations.NumberOfCombinations;
 import org.junit.jupiter.api.Test;
 
 /**

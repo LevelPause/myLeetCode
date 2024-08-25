@@ -1,7 +1,7 @@
 package com.hyperboat.词典中最长的单词;
 
 
-import com.hyperboat.tobeclassified.词典中最长的单词.Solution;
+import com.hyperboat.normal.tobeclassified.词典中最长的单词.Solution;
 import org.junit.jupiter.api.Test;
 
 /**

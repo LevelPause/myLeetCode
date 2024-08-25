@@ -1,7 +1,7 @@
 package com.hyperboat.nqueen;
 
 
-import com.hyperboat.tobeclassified.nqueen.SolveNQueens;
+import com.hyperboat.normal.tobeclassified.nqueen.SolveNQueens;
 import org.junit.jupiter.api.Test;
 
 /**

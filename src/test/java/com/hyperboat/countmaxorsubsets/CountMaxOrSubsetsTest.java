@@ -1,7 +1,7 @@
 package com.hyperboat.countmaxorsubsets;
 
 
-import com.hyperboat.tobeclassified.countmaxorsubsets.CountMaxOrSubsets;
+import com.hyperboat.normal.tobeclassified.countmaxorsubsets.CountMaxOrSubsets;
 import org.junit.jupiter.api.Test;
 
 /**
