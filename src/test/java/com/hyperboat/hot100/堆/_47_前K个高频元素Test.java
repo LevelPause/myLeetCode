@@ -2,7 +2,7 @@ package com.hyperboat.hot100.堆;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-import com.hyperboat.hot100.堆._47_前K个高频元素.Solution;
+import com.hyperboat.题单.hot100.堆._47_前K个高频元素.Solution;
 import org.junit.jupiter.api.Test;
 
 class _47_前K个高频元素Test {

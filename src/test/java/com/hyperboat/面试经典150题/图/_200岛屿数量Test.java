@@ -2,6 +2,7 @@ package com.hyperboat.面试经典150题.图;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+import com.hyperboat.题单.面试经典150题.图._200岛屿数量;
 import org.junit.jupiter.api.Test;
 
 class _200岛屿数量Test {

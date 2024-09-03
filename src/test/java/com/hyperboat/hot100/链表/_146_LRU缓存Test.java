@@ -2,7 +2,7 @@ package com.hyperboat.hot100.链表;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import com.hyperboat.hot100.链表._146_LRU缓存.LRUCache;
+import com.hyperboat.题单.hot100.链表._146_LRU缓存.LRUCache;
 import org.junit.jupiter.api.Test;
 
 class _146_LRU缓存Test {

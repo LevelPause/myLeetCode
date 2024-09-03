@@ -2,6 +2,7 @@ package com.hyperboat.hot100.双指针;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+import com.hyperboat.题单.hot100.双指针._42_接雨水;
 import org.junit.jupiter.api.Test;
 
 class _42_接雨水Test {

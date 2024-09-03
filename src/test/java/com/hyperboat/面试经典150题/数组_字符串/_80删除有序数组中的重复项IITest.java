@@ -2,7 +2,7 @@ package com.hyperboat.面试经典150题.数组_字符串;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-import com.hyperboat.面试经典150题.数组_字符串._80删除有序数组中的重复项II;
+import com.hyperboat.题单.面试经典150题.数组_字符串._80删除有序数组中的重复项II;
 import org.junit.jupiter.api.Test;
 
 /**

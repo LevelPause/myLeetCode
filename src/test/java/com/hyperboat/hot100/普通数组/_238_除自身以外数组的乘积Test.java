@@ -2,6 +2,7 @@ package com.hyperboat.hot100.普通数组;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+import com.hyperboat.题单.hot100.普通数组._238_除自身以外数组的乘积;
 import org.junit.jupiter.api.Test;
 
 class _238_除自身以外数组的乘积Test {

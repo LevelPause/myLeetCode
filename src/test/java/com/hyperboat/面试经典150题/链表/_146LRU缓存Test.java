@@ -2,6 +2,7 @@ package com.hyperboat.面试经典150题.链表;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+import com.hyperboat.题单.面试经典150题.链表._146LRU缓存;
 import org.junit.jupiter.api.Test;
 
 class _146LRU缓存Test {

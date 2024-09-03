@@ -2,7 +2,8 @@ package com.hyperboat.面试经典150题.分治;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import com.hyperboat.面试经典150题.分治._427建立四叉树.Node;
+import com.hyperboat.题单.面试经典150题.分治._427建立四叉树;
+import com.hyperboat.题单.面试经典150题.分治._427建立四叉树.Node;
 import org.junit.jupiter.api.Test;
 
 class _427建立四叉树Test {

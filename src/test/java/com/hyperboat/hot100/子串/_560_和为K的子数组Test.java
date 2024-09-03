@@ -2,6 +2,7 @@ package com.hyperboat.hot100.子串;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+import com.hyperboat.题单.hot100.子串._560_和为K的子数组;
 import org.junit.jupiter.api.Test;
 
 class _560_和为K的子数组Test {

@@ -2,6 +2,7 @@ package com.hyperboat.面试经典150题.矩阵;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
+import com.hyperboat.题单.面试经典150题.矩阵._48旋转图像;
 import org.junit.jupiter.api.Test;
 
 class _48旋转图像Test {

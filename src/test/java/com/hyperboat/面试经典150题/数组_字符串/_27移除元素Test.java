@@ -2,7 +2,7 @@ package com.hyperboat.面试经典150题.数组_字符串;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-import com.hyperboat.面试经典150题.数组_字符串._27移除元素;
+import com.hyperboat.题单.面试经典150题.数组_字符串._27移除元素;
 import org.junit.jupiter.api.Test;
 
 /**

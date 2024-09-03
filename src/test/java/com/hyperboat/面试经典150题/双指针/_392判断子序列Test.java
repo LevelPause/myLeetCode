@@ -2,6 +2,7 @@ package com.hyperboat.面试经典150题.双指针;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+import com.hyperboat.题单.面试经典150题.双指针._392判断子序列;
 import org.junit.jupiter.api.Test;
 
 /**

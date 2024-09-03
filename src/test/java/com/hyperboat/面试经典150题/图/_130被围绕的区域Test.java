@@ -2,6 +2,7 @@ package com.hyperboat.面试经典150题.图;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
+import com.hyperboat.题单.面试经典150题.图._130被围绕的区域;
 import org.junit.jupiter.api.Test;
 
 class _130被围绕的区域Test {

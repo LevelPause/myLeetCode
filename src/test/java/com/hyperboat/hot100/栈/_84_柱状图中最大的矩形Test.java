@@ -2,7 +2,7 @@ package com.hyperboat.hot100.栈;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import com.hyperboat.hot100.栈._84_柱状图中最大的矩形.Solution;
+import com.hyperboat.题单.hot100.栈._84_柱状图中最大的矩形.Solution;
 import org.junit.jupiter.api.Test;
 
 class _84_柱状图中最大的矩形Test {

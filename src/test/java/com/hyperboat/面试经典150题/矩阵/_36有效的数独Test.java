@@ -3,6 +3,7 @@ package com.hyperboat.面试经典150题.矩阵;
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
+import com.hyperboat.题单.面试经典150题.矩阵._36有效的数独;
 import org.junit.jupiter.api.Test;
 
 class _36有效的数独Test {
