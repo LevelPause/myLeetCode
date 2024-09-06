@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class _279_完全平方数 {
 
-  static class Solution {
+  public static class Solution {
 
     public int numSquares(int n) {
       int[] dp = new int[n + 1];

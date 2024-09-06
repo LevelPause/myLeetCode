@@ -6,7 +6,7 @@ import java.util.List;
 
 public class _22_括号生成 {
 
-  static class Solution {
+  public static class Solution {
 
     private List<String> res;
 

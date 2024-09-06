@@ -37,7 +37,7 @@ public class _427建立四叉树 {
     return root;
   }
 
-  static class Node {
+  public static class Node {
 
     @Override
     public String toString() {

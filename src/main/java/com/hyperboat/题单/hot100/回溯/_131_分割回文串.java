@@ -5,7 +5,7 @@ import java.util.List;
 
 public class _131_分割回文串 {
 
-  static class Solution {
+  public static class Solution {
 
     private int n;
     private String s;

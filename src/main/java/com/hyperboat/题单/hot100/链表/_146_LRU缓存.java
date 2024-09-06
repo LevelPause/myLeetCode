@@ -5,7 +5,7 @@ import java.util.Map;
 
 public class _146_LRU缓存 {
 
-  static class LRUCache {
+ public static class LRUCache {
 
     Node dummy = new Node(-1, -1);
     Map<Integer, Node> map;

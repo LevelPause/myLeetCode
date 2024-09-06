@@ -10,7 +10,7 @@ import java.util.Map;
  * int param_1 = obj.get(key);
  * obj.put(key,value);
  */
-class _146LRU缓存 {
+public class _146LRU缓存 {
 
   Map<Integer, Node> map;
   int maxSize;

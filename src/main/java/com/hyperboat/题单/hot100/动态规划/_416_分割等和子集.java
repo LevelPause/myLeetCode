@@ -2,7 +2,7 @@ package com.hyperboat.题单.hot100.动态规划;
 
 public class _416_分割等和子集 {
 
-  static class Solution {
+  public static class Solution {
 
     public boolean canPartition(int[] nums) {
       int n = nums.length;

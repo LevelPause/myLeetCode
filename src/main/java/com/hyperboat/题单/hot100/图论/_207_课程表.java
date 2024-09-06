@@ -7,7 +7,7 @@ import java.util.List;
 
 public class _207_课程表 {
 
-  static class Solution {
+  public static class Solution {
 
     public boolean canFinish(int numCourses, int[][] prerequisites) {
       int[] inDegree = new int[numCourses];

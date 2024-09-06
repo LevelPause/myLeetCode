@@ -6,7 +6,7 @@ import java.util.Deque;
 
 public class _84_柱状图中最大的矩形 {
 
-  static class Solution {
+  public static class Solution {
 
     //    单调栈, 一次遍历确定左右边界
 //    入栈规则为:在入栈前将目前栈顶所有小于当前数的都出栈

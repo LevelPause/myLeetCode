@@ -8,7 +8,7 @@ import java.util.Map;
 
 public class _47_前K个高频元素 {
 
-  static class Solution {
+  public static class Solution {
 
     public int[] topKFrequent(int[] nums, int k) {
       return bucket(nums, k);
