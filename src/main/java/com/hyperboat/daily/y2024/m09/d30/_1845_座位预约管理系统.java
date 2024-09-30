@@ -1,4 +1,4 @@
-package com.hyperboat.daily.y2024.m09;
+package com.hyperboat.daily.y2024.m09.d30;
 
 import java.util.PriorityQueue;
 
