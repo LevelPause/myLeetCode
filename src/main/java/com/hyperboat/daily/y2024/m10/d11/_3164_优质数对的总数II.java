@@ -1,4 +1,4 @@
-package com.hyperboat.daily.y2024.m10.d10;
+package com.hyperboat.daily.y2024.m10.d11;
 
 import java.util.HashMap;
 import java.util.Map;
