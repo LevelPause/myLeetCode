@@ -10,13 +10,13 @@
         <module name="myLeetCode" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="myLeetCode" target="1.8" />
+    <bytecodeTargetLevel target="17">
+      <module name="myLeetCode" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="myLeetCode" options="" />
+      <module name="myLeetCode" options="--add-modules java.base" />
     </option>
   </component>
 </project>
