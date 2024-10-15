@@ -13,7 +13,7 @@
 - [leetcode周赛&双周赛](/src/main/java/com/hyperboat/竞赛) _**doing**_
 - [分类训练题单](/src/main/java/com/hyperboat/题单)
   - [leetcode灵神题单: dp](/src/main/java/com/hyperboat/题单/dp) _**doing**_ [来源](https://leetcode.cn/circle/discuss/tXLS3i/)
-  - [leetcode灵神题单: 位运算](/src/main/java/com/hyperboat/题单/位运算) _**doing**_ [来源](https://leetcode.cn/circle/discuss/dHn9Vk/)
+  - [leetcode灵神题单: 位运算](/src/main/java/com/hyperboat/题单/位运算) **~~done~~** [来源](https://leetcode.cn/circle/discuss/dHn9Vk/)
   - [leetcode官方题单: 面试经典150题](/src/main/java/com/hyperboat/题单/面试经典150题) ~~done~~ [来源](https://leetcode.cn/studyplan/top-interview-150/)
   - [leetcode官方题单: 程序员面试金典](/src/main/java/com/hyperboat/题单/程序员面试金典) _**doing**_ [来源](https://leetcode.cn/studyplan/cracking-the-coding-interview/)
   - [leetcode官方题单: hot100](/src/main/java/com/hyperboat/题单/hot100) ~~done~~ [来源](https://leetcode.cn/studyplan/top-100-liked/?historyId=qnfk33t)
