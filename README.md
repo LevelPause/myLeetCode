@@ -5,6 +5,10 @@
 ### 工程结构
 - [codeforces题目](/src/main/java/com/hyperboat/codeforces) _**doing**_
 - [leetcode每日一题](/src/main/java/com/hyperboat/daily) _**doing**_
+  - [2024.07](/md/daily/2024/07.md) 
+  - [2024.08](/md/daily/2024/08.md) 全勤 
+  - [2024.09](/md/daily/2024/09.md) 全勤
+  - [2024.10](/md/daily/2024/10.md) 
 - [随机发现的零散题目](/src/main/java/com/hyperboat/normal)
   - [简单](/src/main/java/com/hyperboat/normal/simple)
   - [中等](/src/main/java/com/hyperboat/normal/medium)
