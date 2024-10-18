@@ -1,9 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 .gitignore
 .idea/dataSources/
-src/main/resource/
 target/
 /.idea/
-src/main/resources/
-src/test/resources/
 *.iml
