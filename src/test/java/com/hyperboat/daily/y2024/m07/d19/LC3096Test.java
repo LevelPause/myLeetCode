@@ -4,11 +4,11 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
-class _3096得到更多分数的最少关卡数目Test {
+class LC3096Test {
 
   @Test
   void minimumLevels() {
     int[] possible = {0, 0, 0};
-    assertEquals(1, new _3096得到更多分数的最少关卡数目().minimumLevels(possible));
+    assertEquals(1, new LC3096().minimumLevels(possible));
   }
 }

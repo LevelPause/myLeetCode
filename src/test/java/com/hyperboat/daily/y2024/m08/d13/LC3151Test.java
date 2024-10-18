@@ -2,10 +2,10 @@ package com.hyperboat.daily.y2024.m08.d13;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-import com.hyperboat.daily.y2024.m08.d13._3151_特殊数组I.Solution;
+import com.hyperboat.daily.y2024.m08.d13.LC3151.Solution;
 import org.junit.jupiter.api.Test;
 
-public class _3151_特殊数组ITest {
+public class LC3151Test {
 
   @Test
   void isArraySpecial() {

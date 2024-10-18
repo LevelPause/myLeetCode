@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-class _807保持城市天际线Test {
+class LC807Test {
 
   @Test
   void maxIncreaseKeepingSkyline() {
@@ -20,7 +20,7 @@ class _807保持城市天际线Test {
         {0, 0, 0, 0},
         {0, 0, 0, 0}
     };
-    assertEquals(35, new _807保持城市天际线().maxIncreaseKeepingSkyline(grid1));
-    assertEquals(0, new _807保持城市天际线().maxIncreaseKeepingSkyline(grid2));
+    assertEquals(35, new LC807().maxIncreaseKeepingSkyline(grid1));
+    assertEquals(0, new LC807().maxIncreaseKeepingSkyline(grid2));
   }
 }

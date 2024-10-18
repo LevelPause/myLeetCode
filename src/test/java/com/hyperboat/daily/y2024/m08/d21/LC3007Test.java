@@ -4,10 +4,10 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
-class _3007_价值和小于等于K的最大数字Test {
+class LC3007Test {
 
   @Test
   public void test() {
-    assertEquals(6, new _3007_价值和小于等于K的最大数字.Solution().findMaximumNumber(9, 1));
+    assertEquals(6, new LC3007.Solution().findMaximumNumber(9, 1));
   }
 }

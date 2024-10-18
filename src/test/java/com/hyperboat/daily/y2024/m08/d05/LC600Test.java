@@ -4,10 +4,10 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-class _600不含连续1的非负整数Test {
+class LC600Test {
 
   @Test
   void findIntegers() {
-    assertEquals(5,new _600不含连续1的非负整数().findIntegers(5));
+    assertEquals(5,new LC600().findIntegers(5));
   }
 }
