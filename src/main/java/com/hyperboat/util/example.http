@@ -1,0 +1,32 @@
+POST https://leetcode.cn/graphql/
+Content-Type: application/json
+Accept: application/json, text/plain, */*
+Cookie: gr_user_id=51964baa-2957-4cda-a0cd-2d99ec0cd585; _bl_uid=7glCjwFduyhfsttRvsgL2d7tp29w; a2873925c34ecbd2_gr_last_sent_cs1=lc_rookie; _ga_PDVPZYN3CW=deleted; _ga_JSBF1EVZXY=GS1.1.1724665909.4.1.1724665921.0.0.0; tfstk=fBvriVOzE9YXOLMQdgWFbLVF_V6RpT06Ep_CxHxhVabkR0eFxeYvdQtnyB82Rep5PgtCxwbDoaTWNHT42K8ad8g-wH2Fd90s5AM62uBdKVwI7ShAyMKc-nNbkiKRp90fHyKWi3LaA7OS89mVnMSQq92uZmrcAZ2lx8j3om7Ax9jl-MbcnMjPq9XH-nmVvUTWNBNVj_m6wGdIU8IcaNxq6J2eER1PSn74KvvV42bMqZy3KaLnso-H-2yCICL2L1YsL-BWbIXc4Io3iafwZUsv8AylrK-kEa9ol8_kenA6dEm3KwRDs1RMqqNV0IxW3s9i7J5JiUdOTpgjBTO6fpCMEYzOl1Ie7TAqo88G4azdmXvvpQz3T_jA0Niq0e1JsGbpW2E49WCc7i7s2aFL9_vN0Niq0WFdwjIV50QR.; Hm_lvt_fa218a3ff7179639febdb15e372f411c=1725266157,1726149279,1727166323,1727166336; Hm_lvt_f0faad39bcf8471e3ab3ef70125152c3=1725261486,1725266124,1726149279,1727166459; _ga=GA1.1.378419930.1716475102; a2873925c34ecbd2_gr_cs1=lc_rookie; _ga_PDVPZYN3CW=GS1.1.1727183684.308.1.1727187700.18.0.0; aliyungf_tc=0f2b413066260c6b80a63fe1722fd749b13e03927d8d513656f7fb130c9f18c4; csrftoken=fdVKdT94xPmMsygpUDJiN7qh3SVYBa6MNCrr1Dj4cUjqgXRX47kB3BzJG1ScC73r; CONTEST_DYNAMIC_LAYOUT=1; __appToken__=; LEETCODE_SESSION=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJzaW9uX2tleV8iOjAsIl9hdXRoX3VzZXJfaWQiOiIxMjE3NzIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiYXV0aGVudGljYXRpb24uYXV0aF9iYWNrZW5kcy5QaG9uZUF1dGhlbnRpY2F0aW9uQmFja2VuZCIsIl9hdXRoX3VzZXJfaGFzaCI6IjQ1NGY4ZDcxZGM0ZmI0MTBhNGMxOTE1M2M5Y2IwMjI0MzAwOThmNjU3MzhiOTIxMGFhZWMyYWRlMzQ2MDZhMDkiLCJpZCI6MTIxNzcyMSwiZW1haWwiOiIiLCJ1c2VybmFtZSI6ImxjX3Jvb2tpZSIsInVzZXJfc2x1ZyI6ImxjX3Jvb2tpZSIsImF2YXRhciI6Imh0dHBzOi8vYXNzZXRzLmxlZXRjb2RlLmNuL2FsaXl1bi1sYy11cGxvYWQvdXNlcnMvbGNfcm9va2llL2F2YXRhcl8xNjU4NDIzMTUxLnBuZyIsInBob25lX3ZlcmlmaWVkIjp0cnVlLCJkZXZpY2VfaWQiOiJjM2Q3NTI2Yzk4N2QwOTJlNjc4MGZiNzAzMGYyMzJjNiIsImlwIjoiMTEyLjE5My4xNzcuMjUiLCJfdGltZXN0YW1wIjoxNzI4NzM4MDA3LjUyMjY4MywiZXhwaXJlZF90aW1lXyI6MTczMTI2NTIwMCwibGF0ZXN0X3RpbWVzdGFtcF8iOjE3MjkwNzU0MzN9.IC6b9cKhWuJfz6yZsFj93W3OvgGRL3-TraJzO9FYphk; sl-session=/JASd665EWdGRQMcGHQNhg==
+
+{
+  "query": "\n query questionTranslations($titleSlug: String!) {\n question(titleSlug: $titleSlug) {\n translatedTitle \n translatedContent \n } \n } ",
+  "variables": {
+    "titleSlug": "ryfUiz"
+  },
+  "operationName": "questionTranslations"
+}
+
+
+
+
+###
+POST https://leetcode.cn/graphql/
+Content-Type: application/json
+Accept: application/json, text/plain, */*
+Cookie: gr_user_id=51964baa-2957-4cda-a0cd-2d99ec0cd585; _bl_uid=7glCjwFduyhfsttRvsgL2d7tp29w; a2873925c34ecbd2_gr_last_sent_cs1=lc_rookie; _ga_PDVPZYN3CW=deleted; _ga_JSBF1EVZXY=GS1.1.1724665909.4.1.1724665921.0.0.0; tfstk=fBvriVOzE9YXOLMQdgWFbLVF_V6RpT06Ep_CxHxhVabkR0eFxeYvdQtnyB82Rep5PgtCxwbDoaTWNHT42K8ad8g-wH2Fd90s5AM62uBdKVwI7ShAyMKc-nNbkiKRp90fHyKWi3LaA7OS89mVnMSQq92uZmrcAZ2lx8j3om7Ax9jl-MbcnMjPq9XH-nmVvUTWNBNVj_m6wGdIU8IcaNxq6J2eER1PSn74KvvV42bMqZy3KaLnso-H-2yCICL2L1YsL-BWbIXc4Io3iafwZUsv8AylrK-kEa9ol8_kenA6dEm3KwRDs1RMqqNV0IxW3s9i7J5JiUdOTpgjBTO6fpCMEYzOl1Ie7TAqo88G4azdmXvvpQz3T_jA0Niq0e1JsGbpW2E49WCc7i7s2aFL9_vN0Niq0WFdwjIV50QR.; Hm_lvt_fa218a3ff7179639febdb15e372f411c=1725266157,1726149279,1727166323,1727166336; Hm_lvt_f0faad39bcf8471e3ab3ef70125152c3=1725261486,1725266124,1726149279,1727166459; _ga=GA1.1.378419930.1716475102; a2873925c34ecbd2_gr_cs1=lc_rookie; _ga_PDVPZYN3CW=GS1.1.1727183684.308.1.1727187700.18.0.0; aliyungf_tc=0f2b413066260c6b80a63fe1722fd749b13e03927d8d513656f7fb130c9f18c4; csrftoken=fdVKdT94xPmMsygpUDJiN7qh3SVYBa6MNCrr1Dj4cUjqgXRX47kB3BzJG1ScC73r; CONTEST_DYNAMIC_LAYOUT=1; __appToken__=; LEETCODE_SESSION=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJzaW9uX2tleV8iOjAsIl9hdXRoX3VzZXJfaWQiOiIxMjE3NzIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiYXV0aGVudGljYXRpb24uYXV0aF9iYWNrZW5kcy5QaG9uZUF1dGhlbnRpY2F0aW9uQmFja2VuZCIsIl9hdXRoX3VzZXJfaGFzaCI6IjQ1NGY4ZDcxZGM0ZmI0MTBhNGMxOTE1M2M5Y2IwMjI0MzAwOThmNjU3MzhiOTIxMGFhZWMyYWRlMzQ2MDZhMDkiLCJpZCI6MTIxNzcyMSwiZW1haWwiOiIiLCJ1c2VybmFtZSI6ImxjX3Jvb2tpZSIsInVzZXJfc2x1ZyI6ImxjX3Jvb2tpZSIsImF2YXRhciI6Imh0dHBzOi8vYXNzZXRzLmxlZXRjb2RlLmNuL2FsaXl1bi1sYy11cGxvYWQvdXNlcnMvbGNfcm9va2llL2F2YXRhcl8xNjU4NDIzMTUxLnBuZyIsInBob25lX3ZlcmlmaWVkIjp0cnVlLCJkZXZpY2VfaWQiOiJjM2Q3NTI2Yzk4N2QwOTJlNjc4MGZiNzAzMGYyMzJjNiIsImlwIjoiMTEyLjE5My4xNzcuMjUiLCJfdGltZXN0YW1wIjoxNzI4NzM4MDA3LjUyMjY4MywiZXhwaXJlZF90aW1lXyI6MTczMTI2NTIwMCwibGF0ZXN0X3RpbWVzdGFtcF8iOjE3MjkwNzU0MzN9.IC6b9cKhWuJfz6yZsFj93W3OvgGRL3-TraJzO9FYphk; sl-session=/JASd665EWdGRQMcGHQNhg==
+
+{
+  "query": "\n query problemsetQuestionList($categorySlug: String, $limit: Int, $skip: Int, $filters: QuestionListFilterInput) { \n problemsetQuestionList(\n categorySlug: $categorySlug \n limit: $limit\n skip: $skip\n filters: $filters\n ) {\n hasMore\n total\n questions {\n acRate\n difficulty\n freqBar\n frontendQuestionId\n isFavor\n paidOnly\n solutionNum\n status\n title\n titleCn\n titleSlug\n topicTags {\n name\n nameTranslated\n id\n slug\n }\n extra {\n   hasVideoSolution\n   topCompanyTags {\n   imgUrl\n   slug\n   numSubscribed\n }\n }\n }\n }\n }",
+  "variables": {
+    "categorySlug": "all-code-essentials",
+    "skip": 2000,
+    "limit": 10,
+    "filters": {}
+  },
+  "operationName": "problemsetQuestionList"
+}
