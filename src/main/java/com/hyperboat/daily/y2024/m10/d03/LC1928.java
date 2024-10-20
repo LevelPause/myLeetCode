@@ -6,7 +6,7 @@ import java.util.Arrays;
  *
  * https://leetcode.cn/problems/minimum-cost-to-reach-destination-in-time/description/
  * */
-public class LC1928 {
+class LC1928 {
 
   class Solution {
 

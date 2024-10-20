@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * https://leetcode.cn/problems/binary-search-tree-iterator/?envType=study-plan-v2&envId=top-interview-150
  */
-public class _173二叉搜索树迭代器 {
+class _173二叉搜索树迭代器 {
 
   TreeNode root;
   List<Integer> nodes;

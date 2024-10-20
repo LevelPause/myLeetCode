@@ -3,7 +3,7 @@ package com.hyperboat.daily.y2024.m08.d17;
 import java.util.HashMap;
 import java.util.Map;
 
-public class LC3137 {
+class LC3137 {
 
   class Solution {
 

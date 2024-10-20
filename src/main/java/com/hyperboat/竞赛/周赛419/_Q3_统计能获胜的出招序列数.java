@@ -5,7 +5,7 @@ import java.util.Arrays;
 /*
  * https://leetcode.cn/problems/count-the-number-of-winning-sequences/description/
  * */
-public class _Q3_统计能获胜的出招序列数 {
+class _Q3_统计能获胜的出招序列数 {
 
 
   class Solution {

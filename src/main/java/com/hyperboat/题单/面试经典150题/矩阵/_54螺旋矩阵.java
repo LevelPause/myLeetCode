@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.矩阵;
 import java.util.ArrayList;
 import java.util.List;
 
-public class _54螺旋矩阵 {
+class _54螺旋矩阵 {
 
   public List<Integer> spiralOrder(int[][] matrix) {
     int m = matrix.length;

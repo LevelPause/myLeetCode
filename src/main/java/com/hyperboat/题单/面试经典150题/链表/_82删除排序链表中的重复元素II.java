@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.链表;
 /*
  * https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii/?envType=study-plan-v2&envId=top-interview-150
  * Definition for singly-linked list.
- * public class ListNode {
+ * class ListNode {
  *     int val;
  *     ListNode next;
  *     ListNode() {}
@@ -29,7 +29,7 @@ class _82删除排序链表中的重复元素II {
     return dummy.next;
   }
 
-  public class ListNode {
+  class ListNode {
 
     int val;
     ListNode next;

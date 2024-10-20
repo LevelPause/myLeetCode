@@ -1,8 +1,8 @@
 package com.hyperboat.normal.medium;
 
-public class LC889 {
+class LC889 {
 
-  public class TreeNode {
+  class TreeNode {
 
     int val;
     TreeNode left;

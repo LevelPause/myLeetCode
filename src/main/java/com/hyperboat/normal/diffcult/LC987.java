@@ -4,9 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.PriorityQueue;
 
-public class LC987 {
+class LC987 {
 
-  public class TreeNode {
+  class TreeNode {
 
     int val;
     TreeNode left;

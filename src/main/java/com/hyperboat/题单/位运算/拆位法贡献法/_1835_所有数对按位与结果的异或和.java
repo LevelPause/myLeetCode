@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.拆位法贡献法;
 /*
  * https://leetcode.cn/problems/find-xor-sum-of-all-pairs-bitwise-and/description/
  * */
-public class _1835_所有数对按位与结果的异或和 {
+class _1835_所有数对按位与结果的异或和 {
 
   class Solution {
 

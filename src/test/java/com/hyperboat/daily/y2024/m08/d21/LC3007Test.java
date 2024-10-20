@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
-class LC3007Test {
+public class LC3007Test {
 
   @Test
   public void test() {

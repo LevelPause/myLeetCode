@@ -4,7 +4,7 @@ package com.hyperboat.题单.面试经典150题.数组_字符串;
  * @author zhangweigang
  * @date 2023年10月19日 2:36
  */
-public class _122买卖股票的最佳时机II {
+class _122买卖股票的最佳时机II {
 
   //贪心算法，核心是每次涨价就抛售,一涨就抛售。关注眼前
   public int maxProfit(int[] prices) {

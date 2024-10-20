@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
  * @author zhangweigang
  * @date 2023年10月18日 2:24
  */
-class LC2530Test {
+public class LC2530Test {
 
   @Test
   void maxKelements() {

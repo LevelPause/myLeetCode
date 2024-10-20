@@ -7,7 +7,7 @@ import java.util.List;
 /*
  * https://leetcode.cn/problems/falling-squares/
  * */
-public class LC699 {
+class LC699 {
 
   public List<Integer> fallingSquares(int[][] positions) {
     return normal(positions);

@@ -6,7 +6,7 @@ import java.util.Arrays;
  * @author zhangweigang
  * @date 2023年10月18日 10:24
  */
-public class _27移除元素 {
+class _27移除元素 {
 
   /*是个很经典的双指针问题, 右指针指向当前要处理的元素，左指针指向下一个要赋值的位置*/
   public int removeElement(int[] nums, int val) {

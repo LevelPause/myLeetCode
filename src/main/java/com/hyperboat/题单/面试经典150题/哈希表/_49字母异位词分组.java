@@ -7,7 +7,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class _49字母异位词分组 {
+class _49字母异位词分组 {
 
   public List<List<String>> groupAnagrams(String[] strs) {
     int[] box = new int[26];

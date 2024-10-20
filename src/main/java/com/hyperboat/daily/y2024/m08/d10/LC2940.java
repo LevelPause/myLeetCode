@@ -9,7 +9,7 @@ import java.util.PriorityQueue;
 /*
  * https://leetcode.cn/problems/find-building-where-alice-and-bob-can-meet/
  * */
-public class LC2940 {
+class LC2940 {
 
   public int[] leftmostBuildingQueries(int[] heights, int[][] queries) {
     int n = queries.length;

@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.回溯;
 /*
  * https://leetcode.cn/problems/word-search/description/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _79单词搜索 {
+class _79单词搜索 {
 
   boolean ans = false;
   Trie root = new Trie();

@@ -1,6 +1,6 @@
 package com.hyperboat.题单.面试经典150题.Kadane算法;
 
-public class _53最大子数组和 {
+class _53最大子数组和 {
 
   int[] nums;
 

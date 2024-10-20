@@ -4,7 +4,7 @@ package com.hyperboat.题单.面试经典150题.数组_字符串;
  * @author zhangweigang
  * @date 2023年10月18日 9:18
  */
-public class _88合并两个有序数组 {
+class _88合并两个有序数组 {
 
   /*
    * 整体思路就是将nums2中的n个数插入到nums1中

@@ -5,7 +5,7 @@ import java.util.PriorityQueue;
 /*
  * https://leetcode.cn/problems/minimum-number-of-refueling-stops/description/
  * */
-public class LC871 {
+class LC871 {
 
   class Solution {
 

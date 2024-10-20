@@ -2,7 +2,7 @@ package com.hyperboat.normal.diffcult;
 
 import java.util.Arrays;
 
-public class LC1012 {
+class LC1012 {
 
   class Solution {
 

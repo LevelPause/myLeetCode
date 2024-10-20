@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.多维动态规划;
 /*
  * https://leetcode.cn/problems/interleaving-string/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _97交错字符串 {
+class _97交错字符串 {
 
   public boolean isInterleave(String s1, String s2, String s3) {
     int m = s1.length();

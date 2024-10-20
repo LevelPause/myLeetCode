@@ -6,7 +6,7 @@ import java.util.Map;
 /*
  * https://leetcode.cn/problems/count-the-number-of-beautiful-subarrays/description/
  * */
-public class _2588_统计美丽子数组数目 {
+class _2588_统计美丽子数组数目 {
 
   class Solution {
 

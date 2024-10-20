@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.分治;
 /**
  *
  */
-public class _148排序链表 {
+class _148排序链表 {
 
   public ListNode sortList(ListNode head) {
     return sortList(head, null);

@@ -7,7 +7,7 @@ import java.util.List;
 /*
  * https://leetcode.cn/problems/coin-change/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _322零钱兑换 {
+class _322零钱兑换 {
 
   public int coinChange(int[] coins, int amount) {
     return dp(coins, amount);

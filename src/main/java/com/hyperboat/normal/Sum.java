@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 
-public class Sum {
+class Sum {
     public static void main(String[] args) {
         int[] ints = new int[]{1, 0, 5, 1, -5, -6, 8, 10, -13, -11, 20, -4, -6, 12, 13};
         System.out.println(Arrays.toString(new Sum().twoSum(ints, 11)));

@@ -2,7 +2,7 @@ package com.hyperboat.题单.面试经典150题.哈希表;
 
 import java.util.HashMap;
 
-public class _290单词规律 {
+class _290单词规律 {
 
   public boolean wordPattern(String pattern, String s) {
     String[] split = s.split(" ");

@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.试填法;
 /*
  * https://leetcode.cn/problems/minimize-or-of-remaining-elements-using-operations/description/
  * */
-public class _3022_给定操作次数内使剩余元素的或值最小 {
+class _3022_给定操作次数内使剩余元素的或值最小 {
 
   class Solution {
 

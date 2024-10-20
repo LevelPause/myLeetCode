@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.基础;
 /*
  * https://leetcode.cn/problems/binary-number-with-alternating-bits/description/
  * */
-public class _693_交替位二进制数 {
+class _693_交替位二进制数 {
 
   class Solution {
 

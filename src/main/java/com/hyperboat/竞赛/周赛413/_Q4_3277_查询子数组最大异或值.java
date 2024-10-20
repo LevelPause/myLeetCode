@@ -1,6 +1,6 @@
 package com.hyperboat.竞赛.周赛413;
 
-public class _Q4_3277_查询子数组最大异或值 {
+class _Q4_3277_查询子数组最大异或值 {
 
   class Solution {
 

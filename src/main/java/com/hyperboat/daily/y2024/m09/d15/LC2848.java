@@ -5,7 +5,7 @@ import java.util.List;
 /*
  * https://leetcode.cn/problems/points-that-intersect-with-cars/
  * */
-public class LC2848 {
+class LC2848 {
 
   class Solution {
 

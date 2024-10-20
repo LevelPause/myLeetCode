@@ -5,7 +5,7 @@ import java.util.Arrays;
 /*
  * https://leetcode.cn/problems/number-of-possible-sets-of-closing-branches/description/
  * */
-public class LC2959 {
+class LC2959 {
 
   public int numberOfSets(int n, int maxDistance, int[][] roads) {
     int[][] m = new int[n][n];

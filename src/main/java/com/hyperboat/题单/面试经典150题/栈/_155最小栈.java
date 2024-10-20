@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.栈;
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-public class _155最小栈 {
+class _155最小栈 {
 
   class MinStack {
 

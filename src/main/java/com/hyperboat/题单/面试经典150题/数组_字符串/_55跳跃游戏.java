@@ -4,7 +4,7 @@ package com.hyperboat.题单.面试经典150题.数组_字符串;
  * @author zhangweigang
  * @date 2023年10月19日 3:45
  */
-public class _55跳跃游戏 {
+class _55跳跃游戏 {
 
   //进阶解法
   public boolean canJump(int[] nums) {

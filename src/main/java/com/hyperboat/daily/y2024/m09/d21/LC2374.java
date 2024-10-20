@@ -1,6 +1,6 @@
 package com.hyperboat.daily.y2024.m09.d21;
 
-public class LC2374 {
+class LC2374 {
 
   class Solution {
 

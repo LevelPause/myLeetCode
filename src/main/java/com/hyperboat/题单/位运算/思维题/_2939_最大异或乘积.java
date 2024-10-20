@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.思维题;
 /*
  * https://leetcode.cn/problems/maximum-xor-product/description/
  * */
-public class _2939_最大异或乘积 {
+class _2939_最大异或乘积 {
 
 
   class Solution {

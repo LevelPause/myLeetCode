@@ -3,7 +3,7 @@ package com.hyperboat.daily.y2024.m10.d06;
 /*
  * https://leetcode.cn/problems/gas-station/description/
  * */
-public class LC134 {
+class LC134 {
 
   class Solution {
 

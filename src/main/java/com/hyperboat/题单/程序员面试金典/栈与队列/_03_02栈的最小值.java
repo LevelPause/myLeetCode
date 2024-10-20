@@ -3,7 +3,7 @@ package com.hyperboat.题单.程序员面试金典.栈与队列;
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-public class _03_02栈的最小值 {
+class _03_02栈的最小值 {
 
   Deque<Integer> stack;
   int min;

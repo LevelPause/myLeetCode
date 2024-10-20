@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
  * @author zhangweigang
  * @date 2023年10月24日
  */
-class LC1155Test {
+public class LC1155Test {
 
   @Test
   void numRollsToTarget() {

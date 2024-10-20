@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class _22括号生成 {
+class _22括号生成 {
 
   List<String> ans = new ArrayList<>();
   int n;

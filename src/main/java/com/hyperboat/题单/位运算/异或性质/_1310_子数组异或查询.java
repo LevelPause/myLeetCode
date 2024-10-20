@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.异或性质;
 /*
  * https://leetcode.cn/problems/xor-queries-of-a-subarray/description/
  * */
-public class _1310_子数组异或查询 {
+class _1310_子数组异或查询 {
 
   class Solution {
 

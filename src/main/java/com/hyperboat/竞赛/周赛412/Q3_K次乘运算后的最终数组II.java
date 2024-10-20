@@ -2,7 +2,7 @@ package com.hyperboat.竞赛.周赛412;
 
 import java.util.PriorityQueue;
 
-public class Q3_K次乘运算后的最终数组II {
+class Q3_K次乘运算后的最终数组II {
 
   class Solution {
 

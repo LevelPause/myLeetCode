@@ -1,6 +1,6 @@
 package com.hyperboat.题单.面试经典150题.矩阵;
 
-public class _48旋转图像 {
+class _48旋转图像 {
 
   public void rotate(int[][] matrix) {
     if (matrix.length <= 1) {

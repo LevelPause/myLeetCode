@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
-class LC3128Test {
+public class LC3128Test {
 
   @Test
   void numberOfRightTriangles() {

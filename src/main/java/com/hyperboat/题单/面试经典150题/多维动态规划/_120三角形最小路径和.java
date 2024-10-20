@@ -5,7 +5,7 @@ import java.util.List;
 /*
  * https://leetcode.cn/problems/triangle/description/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _120三角形最小路径和 {
+class _120三角形最小路径和 {
 
   public int minimumTotal(List<List<Integer>> triangle) {
     return dp1(triangle);

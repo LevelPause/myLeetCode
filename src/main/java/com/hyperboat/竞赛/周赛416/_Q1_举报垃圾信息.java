@@ -7,7 +7,7 @@ import java.util.Set;
 /*
  * https://leetcode.cn/contest/weekly-contest-416/problems/report-spam-message/
  * */
-public class _Q1_举报垃圾信息 {
+class _Q1_举报垃圾信息 {
 
   class Solution {
 

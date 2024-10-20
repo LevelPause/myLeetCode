@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.其他;
 /**
  * https://leetcode.cn/problems/triples-with-bitwise-and-equal-to-zero/description/
  */
-public class _982_按位与为零的三元组 {
+class _982_按位与为零的三元组 {
 
   class Solution {
 

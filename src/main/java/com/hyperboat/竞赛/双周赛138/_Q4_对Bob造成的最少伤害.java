@@ -2,7 +2,7 @@ package com.hyperboat.竞赛.双周赛138;
 
 import java.util.Arrays;
 
-public class _Q4_对Bob造成的最少伤害 {
+class _Q4_对Bob造成的最少伤害 {
 
   static class Solution {
 

@@ -4,7 +4,7 @@ package com.hyperboat.题单.面试经典150题.数组_字符串;
  * @author zhangweigang
  * @date 2023年10月22日
  */
-public class _12整数转罗马数字 {
+class _12整数转罗马数字 {
 
   //好弱智的题, 没什么太多优化的解, 可以把里面的字母定义成常量之类的, 没什么优化的空间
   public String intToRoman(int num) {

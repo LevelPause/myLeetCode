@@ -6,7 +6,7 @@ import java.util.Map;
 /*
  * https://leetcode.cn/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/?envType=study-plan-v2&envId=top-interview-150
  * Definition for a binary tree node.
- * public class TreeNode {
+ * class TreeNode {
  *     int val;
  *     TreeNode left;
  *     TreeNode right;
@@ -19,7 +19,7 @@ import java.util.Map;
  *     }
  * }
  */
-public class _106从中序与后序遍历序列构造二叉树 {
+class _106从中序与后序遍历序列构造二叉树 {
 
   //  存放节点值到对应在postorder和inorder的映射 num2index.get(i)[0]是postorder, num2index.get(i)[1]是inorder
   Map<Integer, int[]> num2index;

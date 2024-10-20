@@ -1,6 +1,6 @@
 package com.hyperboat.daily.y2024.m07.d14;
 
-public class LC807 {
+class LC807 {
 
   // 贪心思想，使每个方格增长为 Min(行最大值,列最大值) 即可
   public int maxIncreaseKeepingSkyline(int[][] grid) {

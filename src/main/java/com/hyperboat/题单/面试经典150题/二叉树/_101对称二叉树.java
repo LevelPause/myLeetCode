@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.二叉树;
 /*
  * https://leetcode.cn/problems/symmetric-tree/?envType=study-plan-v2&envId=top-interview-150
  * Definition for a binary tree node.
- * public class TreeNode {
+ * class TreeNode {
  *     int val;
  *     TreeNode left;
  *     TreeNode right;
@@ -16,7 +16,7 @@ package com.hyperboat.题单.面试经典150题.二叉树;
  *     }
  * }
  */
-public class _101对称二叉树 {
+class _101对称二叉树 {
 
   public boolean isSymmetric(TreeNode root) {
     return isSymmetric(root, root);

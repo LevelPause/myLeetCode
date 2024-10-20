@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.二叉树;
 /*
  * https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/description/?envType=study-plan-v2&envId=top-interview-150
  */
-public class _114二叉树展开为链表 {
+class _114二叉树展开为链表 {
 
   TreeNode preNode;
 

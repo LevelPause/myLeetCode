@@ -6,7 +6,7 @@ import java.util.Map;
 /*
  * https://leetcode.cn/problems/compress-string-lcci/?envType=study-plan-v2&envId=cracking-the-coding-interview
  * */
-public class _01_06字符串压缩 {
+class _01_06字符串压缩 {
 
   public String compressString(String S) {
     int n = S.length();

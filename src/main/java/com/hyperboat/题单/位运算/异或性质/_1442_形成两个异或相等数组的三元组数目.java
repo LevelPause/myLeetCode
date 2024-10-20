@@ -6,7 +6,7 @@ import java.util.Map;
 /*
  * https://leetcode.cn/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/description/
  * */
-public class _1442_形成两个异或相等数组的三元组数目 {
+class _1442_形成两个异或相等数组的三元组数目 {
 
   class Solution {
 

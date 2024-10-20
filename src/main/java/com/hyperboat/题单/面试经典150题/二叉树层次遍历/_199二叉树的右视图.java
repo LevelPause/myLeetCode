@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * Definition for a binary tree node.
  */
-public class _199二叉树的右视图 {
+class _199二叉树的右视图 {
 
   List<Integer> res;
 

@@ -2,7 +2,7 @@ package com.hyperboat.normal.medium;
 
 import java.util.List;
 
-public class LC841 {
+class LC841 {
 
   boolean[] visit;
   int num;

@@ -8,7 +8,7 @@ import java.util.Map;
 /*
  * https://leetcode.cn/problems/letter-combinations-of-a-phone-number/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _17电话号码的字母组合 {
+class _17电话号码的字母组合 {
 
   List<String> res;
 

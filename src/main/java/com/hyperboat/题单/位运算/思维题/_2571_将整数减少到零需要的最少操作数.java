@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.思维题;
 /**
  * https://leetcode.cn/problems/minimum-operations-to-reduce-an-integer-to-0/
  */
-public class _2571_将整数减少到零需要的最少操作数 {
+class _2571_将整数减少到零需要的最少操作数 {
 
   class Solution {
 

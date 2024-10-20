@@ -2,7 +2,7 @@ package com.hyperboat.daily.y2024.m09.d18;
 
 import java.util.Arrays;
 
-public class LC2332 {
+class LC2332 {
 
   class Solution {
 

@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.链表;
 /*
  * https://leetcode.cn/problems/merge-two-sorted-lists/?envType=study-plan-v2&envId=top-interview-150
  * Definition for singly-linked list.
- * public class ListNode {
+ * class ListNode {
  *     int val;
  *     ListNode next;
  *     ListNode() {}
@@ -11,7 +11,7 @@ package com.hyperboat.题单.面试经典150题.链表;
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-public class _21合并两个有序链表 {
+class _21合并两个有序链表 {
 
   public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
     return yuandi(list1, list2);
@@ -69,7 +69,7 @@ public class _21合并两个有序链表 {
     return dummy.next;
   }
 
-  public class ListNode {
+  class ListNode {
 
     int val;
     ListNode next;

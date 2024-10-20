@@ -4,7 +4,7 @@ package com.hyperboat.normal.medium;
  * @author hyperboat
  * @date 2022年03月17日 3:28
  */
-public class LC208 {
+class LC208 {
 
   Node root;
 

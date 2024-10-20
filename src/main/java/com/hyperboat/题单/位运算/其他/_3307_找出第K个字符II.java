@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.其他;
 /**
  * https://leetcode.cn/problems/find-the-k-th-character-in-string-game-ii/description/
  */
-public class _3307_找出第K个字符II {
+class _3307_找出第K个字符II {
 
   class Solution {
 

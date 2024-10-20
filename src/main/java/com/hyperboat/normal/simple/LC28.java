@@ -5,7 +5,7 @@ package com.hyperboat.normal.simple;
  * @author hyperboat
  * @date 2022年03月16日 22:27
  */
-public class LC28 {
+class LC28 {
 
 
   public int strStr(String haystack, String needle) {

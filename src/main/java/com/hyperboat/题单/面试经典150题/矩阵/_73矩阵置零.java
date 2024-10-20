@@ -1,6 +1,6 @@
 package com.hyperboat.题单.面试经典150题.矩阵;
 
-public class _73矩阵置零 {
+class _73矩阵置零 {
 
   public void setZeroes(int[][] matrix) {
     int m = matrix.length;

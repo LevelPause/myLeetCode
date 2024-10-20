@@ -7,7 +7,7 @@ import java.util.List;
 /*
  * https://leetcode.cn/contest/weekly-contest-418/problems/construct-2d-grid-matching-graph-layout/description/
  * */
-public class Q3_构造符合图结构的二维矩阵 {
+class Q3_构造符合图结构的二维矩阵 {
 
   class Solution {
 

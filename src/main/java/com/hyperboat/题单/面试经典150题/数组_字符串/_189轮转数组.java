@@ -4,7 +4,7 @@ package com.hyperboat.题单.面试经典150题.数组_字符串;
  * @author zhangweigang
  * @date 2023年10月18日 12:46
  */
-public class _189轮转数组 {
+class _189轮转数组 {
 
 
   //进阶解法， 利用了翻转再翻转后的每组整体顺序不变的特性

@@ -6,7 +6,7 @@ import java.util.Comparator;
 /*
  * https://leetcode.cn/problems/minimum-rectangles-to-cover-points/description/
  * */
-public class LC3111 {
+class LC3111 {
 
   // 简简单单一个贪心
   public int minRectanglesToCoverPoints(int[][] points, int w) {

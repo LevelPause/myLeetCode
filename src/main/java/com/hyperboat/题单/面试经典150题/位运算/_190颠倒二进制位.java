@@ -4,7 +4,7 @@ package com.hyperboat.题单.面试经典150题.位运算;
  *
  * https://leetcode.cn/problems/reverse-bits/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _190颠倒二进制位 {
+class _190颠倒二进制位 {
 
   // you need treat n as an unsigned value
   public int reverseBits(int n) {

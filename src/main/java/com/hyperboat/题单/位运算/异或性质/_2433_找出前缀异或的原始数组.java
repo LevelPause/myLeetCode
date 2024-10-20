@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.异或性质;
 /*
  * https://leetcode.cn/problems/find-the-original-array-of-prefix-xor/description/
  * */
-public class _2433_找出前缀异或的原始数组 {
+class _2433_找出前缀异或的原始数组 {
 
   class Solution {
 

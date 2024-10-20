@@ -6,7 +6,7 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.PriorityQueue;
 
-public class LC3112 {
+class LC3112 {
 
   //  稀疏图 用邻接表和dijkstra(迪拉杰斯特)算法
   public int[] minimumTime(int n, int[][] edges, int[] disappear) {

@@ -3,7 +3,7 @@ package com.hyperboat.daily.y2024.m09.d28;
 /**
  * https://leetcode.cn/problems/booking-concert-tickets-in-groups/description/?envType=daily-question&envId=2024-09-28
  */
-public class LC2286 {
+class LC2286 {
 
   class BookMyShow {
 

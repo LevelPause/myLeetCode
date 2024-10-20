@@ -1,6 +1,6 @@
 package com.hyperboat.竞赛.周赛411;
 
-public class Q3_找出最大的N位K回文数 {
+class Q3_找出最大的N位K回文数 {
 
   class Solution {
 

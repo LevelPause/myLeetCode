@@ -14,7 +14,7 @@ package com.hyperboat.normal.medium;
  * 1 <= len(A), len(B) <= 1000
  * 0 <= A[i], B[i] < 100
  */
-public class LC718 {
+class LC718 {
     public int findLength(int[] A, int[] B) {
         int n = A.length, m = B.length;
         int[][] dp = new int[n + 1][m + 1];

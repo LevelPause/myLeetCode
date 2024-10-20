@@ -4,7 +4,7 @@ package com.hyperboat.daily.y2024.m09.d29;
  *
  * https://leetcode.cn/problems/time-needed-to-buy-tickets/description/?envType=daily-question&envId=2024-09-29
  * */
-public class LC2073 {
+class LC2073 {
 
   class Solution {
 

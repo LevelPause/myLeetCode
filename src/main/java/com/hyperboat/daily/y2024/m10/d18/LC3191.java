@@ -3,7 +3,7 @@ package com.hyperboat.daily.y2024.m10.d18;
 /*
  * https://leetcode.cn/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/
  * */
-public class LC3191 {
+class LC3191 {
 
   public int minOperations(int[] nums) {
     int n = nums.length;

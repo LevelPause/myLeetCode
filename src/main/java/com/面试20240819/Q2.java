@@ -2,7 +2,7 @@ package com.面试20240819;
 
 import java.util.Arrays;
 
-public class Q2 {
+class Q2 {
 
   /*  [2, 6, 12, 20, 27, 36],
       [5, 13, 21, 21, 25, 30],

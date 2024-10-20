@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.图;
 /*
  * https://leetcode.cn/problems/surrounded-regions/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _130被围绕的区域 {
+class _130被围绕的区域 {
 
   public void solve(char[][] board) {
     int row = board.length;

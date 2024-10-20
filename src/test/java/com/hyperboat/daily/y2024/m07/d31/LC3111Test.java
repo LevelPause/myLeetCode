@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
-class LC3111Test {
+public class LC3111Test {
 
   @Test
   void minRectanglesToCoverPoints() {

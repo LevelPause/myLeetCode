@@ -1,6 +1,6 @@
 package com.hyperboat.题单.面试经典150题.哈希表;
 
-public class _242有效的字母异位词 {
+class _242有效的字母异位词 {
 
   public boolean isAnagram(String s, String t) {
     if (s.length() != t.length()) {

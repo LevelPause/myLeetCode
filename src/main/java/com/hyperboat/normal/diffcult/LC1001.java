@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-public class LC1001 {
+class LC1001 {
 
   public int[] gridIllumination(int n, int[][] lamps, int[][] queries) {
     long N = n;

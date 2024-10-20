@@ -3,7 +3,7 @@ package com.hyperboat.daily.y2024.m07.d29;
 import java.util.ArrayList;
 import java.util.List;
 
-public class LC682 {
+class LC682 {
 
   public int calPoints(String[] operations) {
     List<Integer> scores = new ArrayList<>();

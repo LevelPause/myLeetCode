@@ -3,7 +3,7 @@ package com.hyperboat.竞赛.双周赛;
 /*
  * https://leetcode.cn/problems/find-the-power-of-k-size-subarrays-i/description/
  * */
-public class Q1_Q2_长度为K的子数组的能量值I {
+class Q1_Q2_长度为K的子数组的能量值I {
 
   static class Solution {
 

@@ -3,7 +3,7 @@ package com.hyperboat.daily.y2024.m08.d07;
 /*
  * https://leetcode.cn/problems/find-all-possible-stable-binary-arrays-ii/
  * */
-public class LC3130 {
+class LC3130 {
 
   public int numberOfStableArrays(int zero, int one, int limit) {
     int MOD = 1_000_000_007;

@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
-class LC3096Test {
+public class LC3096Test {
 
   @Test
   void minimumLevels() {

@@ -3,7 +3,7 @@ package com.hyperboat.daily.y2024.m07.d27;
 /*
  * https://leetcode.cn/problems/lexicographically-smallest-string-after-operations-with-constraint/
  * */
-public class LC3106 {
+class LC3106 {
 
   StringBuffer res;
 

@@ -8,7 +8,7 @@ import java.util.PriorityQueue;
 /*
  * https://leetcode.cn/problems/ipo/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _502IPO {
+class _502IPO {
 
   //利用最大堆的贪心算法
   public int findMaximizedCapital(int k, int w, int[] profits, int[] capital) {

@@ -5,7 +5,7 @@ import java.util.PriorityQueue;
 /*
  * https://leetcode.cn/problems/seat-reservation-manager/description/
  * */
-public class LC1845 {
+class LC1845 {
 
   class SeatManager {
 

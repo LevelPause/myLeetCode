@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
  * @author zhangweigang
  * @date 2023年10月22日
  */
-class LC1402Test {
+public class LC1402Test {
 
   @Test
   void maxSatisfaction() {

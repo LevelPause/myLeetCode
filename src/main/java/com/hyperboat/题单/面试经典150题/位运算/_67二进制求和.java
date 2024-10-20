@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.位运算;
 /*
  * https://leetcode.cn/problems/add-binary/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _67二进制求和 {
+class _67二进制求和 {
 
   public String addBinary(String a, String b) {
     int m = a.length();

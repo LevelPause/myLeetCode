@@ -4,7 +4,7 @@ package com.hyperboat.题单.面试经典150题.数组_字符串;
  * @author zhangweigang
  * @date 2023年10月22日
  */
-public class _13罗马数字转整数 {
+class _13罗马数字转整数 {
 
   //简单题 题目怎么说就怎么做就是
   public int romanToInt(String s) {

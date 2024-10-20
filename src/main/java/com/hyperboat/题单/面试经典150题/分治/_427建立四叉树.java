@@ -5,7 +5,7 @@ https://leetcode.cn/problems/construct-quad-tree/?envType=study-plan-v2&envId=to
 
 import java.util.Objects;
 
-public class _427建立四叉树 {
+class _427建立四叉树 {
 
   int[][] grid;
 

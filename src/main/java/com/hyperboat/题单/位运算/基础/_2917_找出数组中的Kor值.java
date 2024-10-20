@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.基础;
 /*
  * https://leetcode.cn/problems/find-the-k-or-of-an-array/description/
  * */
-public class _2917_找出数组中的Kor值 {
+class _2917_找出数组中的Kor值 {
 
   class Solution {
 

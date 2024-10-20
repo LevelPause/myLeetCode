@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.思维题;
 /**
  * https://leetcode.cn/problems/chalkboard-xor-game/description/
  */
-public class _810_黑板异或游戏 {
+class _810_黑板异或游戏 {
 
   class Solution {
 

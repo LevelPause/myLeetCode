@@ -3,7 +3,7 @@ package com.hyperboat.daily.y2024.m10.d12;
 /*
  * https://leetcode.cn/problems/find-the-xor-of-numbers-which-appear-twice/description/
  * */
-public class LC3158 {
+class LC3158 {
 
   class Solution {
 

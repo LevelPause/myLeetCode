@@ -9,7 +9,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 
-public class LC815 {
+class LC815 {
 
   static class Solution {
 

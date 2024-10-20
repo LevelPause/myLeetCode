@@ -29,8 +29,8 @@ import java.util.List;
  *  @author zhangweigang
  *  @date 2022年06月20日 2:39
  */
-public class LC715 {
-
+class LC715 {
+//TODO  正确性有待验证
   private final Node node;
 
   public LC715() {

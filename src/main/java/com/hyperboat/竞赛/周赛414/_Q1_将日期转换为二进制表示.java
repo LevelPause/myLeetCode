@@ -1,6 +1,6 @@
 package com.hyperboat.竞赛.周赛414;
 
-public class _Q1_将日期转换为二进制表示 {
+class _Q1_将日期转换为二进制表示 {
 
   class Solution {
 

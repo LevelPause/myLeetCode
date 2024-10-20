@@ -6,7 +6,7 @@ import java.util.List;
 /*
  * https://leetcode.cn/problems/word-search-ii/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _212单词搜索II {
+class _212单词搜索II {
 
   List<String> ans;
   Trie trie;

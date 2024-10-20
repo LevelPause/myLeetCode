@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.二叉树;
 /*
  * https://leetcode.cn/problems/same-tree/?envType=study-plan-v2&envId=top-interview-150
  * Definition for a binary tree node.
- * public class TreeNode {
+ * class TreeNode {
  *     int val;
  *     TreeNode left;
  *     TreeNode right;
@@ -16,7 +16,7 @@ package com.hyperboat.题单.面试经典150题.二叉树;
  *     }
  * }
  */
-public class _100相同的树 {
+class _100相同的树 {
 
   public boolean isSameTree(TreeNode p, TreeNode q) {
     if (p == null || q == null) {

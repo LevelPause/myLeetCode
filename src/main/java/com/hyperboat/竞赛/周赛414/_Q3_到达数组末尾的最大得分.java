@@ -2,7 +2,7 @@ package com.hyperboat.竞赛.周赛414;
 
 import java.util.List;
 
-public class _Q3_到达数组末尾的最大得分 {
+class _Q3_到达数组末尾的最大得分 {
 
   class Solution {
 

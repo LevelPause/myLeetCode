@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.二分查找;
 /*
  * https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _34在排序数组中查找元素的第一个和最后一个位置 {
+class _34在排序数组中查找元素的第一个和最后一个位置 {
 
   public int[] searchRange(int[] nums, int target) {
     int first = binarySearch(nums, target);

@@ -7,7 +7,7 @@ import java.util.Map;
 /*
  * https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/?envType=study-plan-v2&envId=top-interview-150
  * Definition for a binary tree node.
- * public class TreeNode {
+ * class TreeNode {
  *     int val;
  *     TreeNode left;
  *     TreeNode right;
@@ -20,7 +20,7 @@ import java.util.Map;
  *     }
  * }
  */
-public class _105从前序与中序遍历序列构造二叉树 {
+class _105从前序与中序遍历序列构造二叉树 {
 
   int[] preorder;
   int[] inorder;

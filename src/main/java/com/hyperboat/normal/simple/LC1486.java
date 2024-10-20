@@ -20,7 +20,7 @@ package com.hyperboat.normal.simple;
  * 输入：n = 10, start = 5
  * 输出：2
  */
-public class LC1486 {
+class LC1486 {
 
     /**
      * @param n     数组长度

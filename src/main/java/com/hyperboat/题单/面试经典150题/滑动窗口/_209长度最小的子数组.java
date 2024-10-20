@@ -4,7 +4,7 @@ package com.hyperboat.题单.面试经典150题.滑动窗口;
  * @author zhangweigang
  * @date 2023年10月23日
  */
-public class _209长度最小的子数组 {
+class _209长度最小的子数组 {
 
   //常规双指针问题
   public int minSubArrayLen(int target, int[] nums) {

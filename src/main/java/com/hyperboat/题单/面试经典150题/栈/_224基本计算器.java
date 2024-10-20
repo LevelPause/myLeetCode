@@ -6,7 +6,7 @@ import java.util.Deque;
 /*
  * https://leetcode.cn/problems/basic-ca_ulator/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _224基本计算器 {
+class _224基本计算器 {
 
   public int ca_ulate(String s) {
     // 存放所有的数字

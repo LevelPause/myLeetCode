@@ -7,7 +7,7 @@ import java.util.PriorityQueue;
 /*
  * https://leetcode.cn/problems/maximum-number-of-robots-within-budget/
  * */
-public class LC2398 {
+class LC2398 {
 
   class Solution {
 

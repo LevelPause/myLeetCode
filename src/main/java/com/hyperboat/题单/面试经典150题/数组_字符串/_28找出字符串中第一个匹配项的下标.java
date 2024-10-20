@@ -4,7 +4,7 @@ package com.hyperboat.题单.面试经典150题.数组_字符串;
  * @author zhangweigang
  * @date 2023年10月22日
  */
-public class _28找出字符串中第一个匹配项的下标 {
+class _28找出字符串中第一个匹配项的下标 {
 
   public int strStr(String haystack, String needle) {
     int m = haystack.length();

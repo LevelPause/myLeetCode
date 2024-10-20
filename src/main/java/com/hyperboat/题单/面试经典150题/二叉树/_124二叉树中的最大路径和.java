@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.二叉树;
 /**
  * https://leetcode.cn/problems/binary-tree-maximum-path-sum/?envType=study-plan-v2&envId=top-interview-150
  */
-public class _124二叉树中的最大路径和 {
+class _124二叉树中的最大路径和 {
 
   int ans = Integer.MIN_VALUE;
 

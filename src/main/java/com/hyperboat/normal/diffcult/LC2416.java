@@ -7,7 +7,7 @@ import java.util.Map;
  * @author zhangweigang
  * @date 2023年10月18日 4:43
  */
-public class LC2416 {
+class LC2416 {
 
   //暴力遍历，不出意外的超时了
   public int[] sumPrefixScores1(String[] words) {

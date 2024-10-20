@@ -9,7 +9,7 @@ package com.hyperboat.normal.medium;
  * <p>
  * 若其中有多个可行的答案，则返回答案中字典序最小的单词。若无答案，则返回空字符串。
  */
-public class LC720 {
+class LC720 {
 
   public String longestWord(String[] words) {
     String ans = "";

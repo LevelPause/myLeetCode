@@ -7,7 +7,7 @@ import java.util.Random;
 /*
  * https://leetcode.cn/problems/kth-largest-element-in-an-array/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _215数组中的第K个最大元素 {
+class _215数组中的第K个最大元素 {
 
   public int findKthLargest(int[] nums, int k) {
     List<Integer> target = new ArrayList<>();

@@ -1,6 +1,6 @@
 package com.hyperboat.daily.y2024.m08.d21;
 
-public class LC3007 {
+class LC3007 {
 
   static class Solution {
 

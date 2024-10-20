@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.其他;
 /**
  * https://leetcode.cn/problems/count-number-of-maximum-bitwise-or-subsets/description/
  */
-public class _2044_统计按位或能得到最大值的子集数目 {
+class _2044_统计按位或能得到最大值的子集数目 {
 
   class Solution {
 

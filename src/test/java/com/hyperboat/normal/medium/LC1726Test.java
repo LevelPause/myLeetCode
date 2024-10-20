@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
  * @author zhangweigang
  * @date 2023年10月19日 4:46
  */
-class LC1726Test {
+public class LC1726Test {
 
   @Test
   void tupleSameProduct() {

@@ -3,9 +3,9 @@ package com.hyperboat.题单.位运算.其他;
 /**
  * https://leetcode.cn/problems/reverse-bits/description/
  */
-public class _190_颠倒二进制位 {
+class _190_颠倒二进制位 {
 
-  public class Solution {
+  class Solution {
 
     private static final int M1 = 0x55555555;// 0b01010101010101010101010101010101
     private static final int M2 = 0x33333333;// 0b00110011001100110011001100110011

@@ -3,7 +3,7 @@ package com.hyperboat.daily.y2024.m10.d02;
 /*
  * https://leetcode.cn/problems/minimum-speed-to-arrive-on-time/description/
  * */
-public class LC1870 {
+class LC1870 {
 
   class Solution {
     public int minSpeedOnTime(int[] dist, double hour) {

@@ -3,7 +3,7 @@ package com.hyperboat.竞赛.双周赛140;
 /*
  * https://leetcode.cn/problems/find-the-occurrence-of-first-almost-equal-substring/description/
  * */
-public class _Q4_第一个几乎相等子字符串的下标 {
+class _Q4_第一个几乎相等子字符串的下标 {
 
   //前后缀数组, Z函数, 好难
   class Solution {

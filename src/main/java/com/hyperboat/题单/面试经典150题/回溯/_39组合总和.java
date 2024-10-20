@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class _39组合总和 {
+class _39组合总和 {
 
   List<List<Integer>> res;
   List<Integer> line;

@@ -3,7 +3,7 @@ package com.hyperboat.daily.y2024.m10.d14;
 /*
  * https://leetcode.cn/problems/super-egg-drop/description/
  * */
-public class LC887 {
+class LC887 {
 
   //谷歌经典面试题
   class Solution {

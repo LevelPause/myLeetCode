@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.多维动态规划;
 /*
  * https://leetcode.cn/problems/longest-palindromic-substring/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _5最长回文子串 {
+class _5最长回文子串 {
 
   public String longestPalindrome(String s) {
     int n = s.length();

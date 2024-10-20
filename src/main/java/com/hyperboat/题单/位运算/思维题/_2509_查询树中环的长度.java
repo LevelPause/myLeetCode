@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.思维题;
 /**
  * https://leetcode.cn/problems/cycle-length-queries-in-a-tree/description/
  */
-public class _2509_查询树中环的长度 {
+class _2509_查询树中环的长度 {
 
   class Solution {
 

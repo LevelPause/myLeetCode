@@ -1,6 +1,6 @@
 package com.hyperboat.题单.面试经典150题.Kadane算法;
 
-public class _918环形子数组的最大和 {
+class _918环形子数组的最大和 {
 
   /*
    * 这题重点要理解最大连续子数组和成环后怎么算

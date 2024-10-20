@@ -6,7 +6,7 @@ import java.util.PriorityQueue;
 /*
  * https://leetcode.cn/problems/find-median-from-data-stream/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _295数据流的中位数 {
+class _295数据流的中位数 {
 
   PriorityQueue<Integer> qt;
   PriorityQueue<Integer> lt;

@@ -6,7 +6,7 @@ import java.util.Set;
 /**
  * https://leetcode.cn/problems/remove-duplicate-node-lcci/?envType=study-plan-v2&envId=cracking-the-coding-interview
  */
-public class _02_01移除重复节点 {
+class _02_01移除重复节点 {
 
   public ListNode removeDuplicateNodes(ListNode head) {
     if (head == null) {
@@ -28,7 +28,7 @@ public class _02_01移除重复节点 {
     return dummy.next;
   }
 
-  public class ListNode {
+  class ListNode {
 
     int val;
     ListNode next;

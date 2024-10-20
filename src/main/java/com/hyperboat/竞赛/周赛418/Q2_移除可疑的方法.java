@@ -12,7 +12,7 @@ import java.util.Set;
 /*
  * https://leetcode.cn/contest/weekly-contest-418/problems/remove-methods-from-project/description/
  * */
-public class Q2_移除可疑的方法 {
+class Q2_移除可疑的方法 {
 
   static class Solution {
 

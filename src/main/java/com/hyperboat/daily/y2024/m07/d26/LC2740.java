@@ -5,7 +5,7 @@ import java.util.Arrays;
 /*
  * https://leetcode.cn/problems/find-the-value-of-the-partition/?envType=daily-question&envId=2024-07-26
  * */
-public class LC2740 {
+class LC2740 {
 
   //贪心 找出两个数的最小差(绝对值)
   public int findValueOfPartition(int[] nums) {

@@ -3,7 +3,7 @@ package com.hyperboat.竞赛.双周赛141;
 /*
  * https://leetcode.cn/problems/find-the-number-of-possible-ways-for-an-event/description/
  * */
-public class _Q4_安排活动的方案数 {
+class _Q4_安排活动的方案数 {
 
   class Solution {
 

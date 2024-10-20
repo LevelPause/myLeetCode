@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * https://leetcode.cn/problems/average-of-levels-in-binary-tree/?envType=study-plan-v2&envId=top-interview-150
  */
-public class _637二叉树的层平均值 {
+class _637二叉树的层平均值 {
 
   List<Double> res = new ArrayList<>();
   List<Integer> counts = new ArrayList<>();

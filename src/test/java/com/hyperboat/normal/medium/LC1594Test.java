@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
  * @author zhangweigang
  * @date 2023年10月18日 5:48
  */
-class LC1594Test {
+public class LC1594Test {
 
   @Test
   void maxProductPath() {

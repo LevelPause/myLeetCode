@@ -4,7 +4,7 @@ package com.hyperboat.题单.面试经典150题.数组_字符串;
  * @author zhangweigang
  * @date 2023年10月21日
  */
-public class _135分发糖果 {
+class _135分发糖果 {
 
   public int candy(int[] ratings) {
     int n = ratings.length;

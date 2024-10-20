@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
  * @author zhangweigang
  * @date 2023年10月18日 4:44
  */
-class LC2416Test {
+public class LC2416Test {
 
   @Test
   void sumPrefixScores() {

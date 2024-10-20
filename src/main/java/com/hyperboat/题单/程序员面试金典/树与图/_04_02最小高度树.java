@@ -3,7 +3,7 @@ package com.hyperboat.题单.程序员面试金典.树与图;
 /**
  * https://leetcode.cn/problems/minimum-height-tree-lcci/?envType=study-plan-v2&envId=cracking-the-coding-interview
  */
-public class _04_02最小高度树 {
+class _04_02最小高度树 {
 
   public TreeNode sortedArrayToBST(int[] nums) {
     int n = nums.length;
@@ -24,7 +24,7 @@ public class _04_02最小高度树 {
     return node;
   }
 
-  public class TreeNode {
+  class TreeNode {
 
     int val;
     TreeNode left;

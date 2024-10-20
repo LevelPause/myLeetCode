@@ -4,7 +4,7 @@ package com.hyperboat.normal.simple;
  * @author zhangweigang
  * @date 2023年10月20日 1:10
  */
-public class LC2525 {
+class LC2525 {
 
   public String categorizeBox(int length, int width, int height, int mass) {
     boolean bulky = false;

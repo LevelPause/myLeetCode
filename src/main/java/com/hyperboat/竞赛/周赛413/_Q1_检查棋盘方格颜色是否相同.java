@@ -3,7 +3,7 @@ package com.hyperboat.竞赛.周赛413;
 /*
  * https://leetcode.cn/contest/weekly-contest-413/problems/check-if-two-chessboard-squares-have-the-same-color/description/
  * */
-public class _Q1_检查棋盘方格颜色是否相同 {
+class _Q1_检查棋盘方格颜色是否相同 {
 
   class Solution {
 

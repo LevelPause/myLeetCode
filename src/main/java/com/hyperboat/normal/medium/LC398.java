@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Random;
 
-public class LC398 {
+class LC398 {
 
   class Solution {
 

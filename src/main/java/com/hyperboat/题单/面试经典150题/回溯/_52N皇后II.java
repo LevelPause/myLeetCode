@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.回溯;
 import java.util.HashSet;
 import java.util.Set;
 
-public class _52N皇后II {
+class _52N皇后II {
 
   int n;
   int count = 0;

@@ -6,7 +6,7 @@ import java.util.Deque;
 /*
  * https://leetcode.cn/problems/implement-queue-using-stacks-lcci/?envType=study-plan-v2&envId=cracking-the-coding-interview
  * */
-public class _03_04化栈为队 {
+class _03_04化栈为队 {
 
   Deque<Integer> stack1;
   Deque<Integer> stack2;

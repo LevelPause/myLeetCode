@@ -1,6 +1,6 @@
 package com.hyperboat.竞赛.双周赛138;
 
-public class _Q2_哈希分割字符串 {
+class _Q2_哈希分割字符串 {
 
   class Solution {
 

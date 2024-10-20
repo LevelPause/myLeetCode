@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.字典树;
 /*
  * https://leetcode.cn/problems/design-add-and-search-words-data-structure/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _211添加与搜索单词数据结构设计 {
+class _211添加与搜索单词数据结构设计 {
 
   Node root;
 

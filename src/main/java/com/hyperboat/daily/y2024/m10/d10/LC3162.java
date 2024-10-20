@@ -5,7 +5,7 @@ import java.util.Map;
 /*
 * https://leetcode.cn/problems/find-the-number-of-good-pairs-i/description/
 * */
-public class LC3162 {
+class LC3162 {
 
   class Solution {
 

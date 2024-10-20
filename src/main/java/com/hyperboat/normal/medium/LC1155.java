@@ -4,7 +4,7 @@ package com.hyperboat.normal.medium;
  * @author zhangweigang
  * @date 2023年10月24日
  */
-public class LC1155 {
+class LC1155 {
 
   //01背包问题
   //理解还不够深刻, 有空再多看看 todo

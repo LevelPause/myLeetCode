@@ -5,7 +5,7 @@ import java.util.HashMap;
 /*
  * https://leetcode.cn/problems/minimum-sum-of-values-by-dividing-array/description/
  * */
-public class _3117_划分数组得到最小的值之和 {
+class _3117_划分数组得到最小的值之和 {
 
   class Solution {
 

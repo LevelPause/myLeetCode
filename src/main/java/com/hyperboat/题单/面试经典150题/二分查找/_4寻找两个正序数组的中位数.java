@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.二分查找;
 /*
  * https://leetcode.cn/problems/median-of-two-sorted-arrays/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _4寻找两个正序数组的中位数 {
+class _4寻找两个正序数组的中位数 {
 
   public double findMedianSortedArrays(int[] nums1, int[] nums2) {
     // 012345

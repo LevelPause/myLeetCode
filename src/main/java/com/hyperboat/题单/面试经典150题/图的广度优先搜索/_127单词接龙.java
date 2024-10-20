@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-public class _127单词接龙 {
+class _127单词接龙 {
 
 
   public int ladderLength(String beginWord, String endWord, List<String> wordList) {

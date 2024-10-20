@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 //https://leetcode.cn/problems/summary-ranges/?envType=study-plan-v2&envId=top-interview-150
-public class _228汇总区间 {
+class _228汇总区间 {
 
   public List<String> summaryRanges(int[] nums) {
     return groupCircle(nums);

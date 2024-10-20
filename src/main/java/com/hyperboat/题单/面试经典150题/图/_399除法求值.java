@@ -7,7 +7,7 @@ import java.util.Map;
 /*
  * https://leetcode.cn/problems/evaluate-division/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _399除法求值 {
+class _399除法求值 {
 
   Map<String, Integer> map = new HashMap<>();
 

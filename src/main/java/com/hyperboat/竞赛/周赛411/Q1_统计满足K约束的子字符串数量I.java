@@ -1,6 +1,6 @@
 package com.hyperboat.竞赛.周赛411;
 
-public class Q1_统计满足K约束的子字符串数量I {
+class Q1_统计满足K约束的子字符串数量I {
 
   class Solution {
 

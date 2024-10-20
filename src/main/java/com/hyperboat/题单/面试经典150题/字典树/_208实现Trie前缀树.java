@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.字典树;
 /*
  * https://leetcode.cn/problems/implement-trie-prefix-tree/description/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _208实现Trie前缀树 {
+class _208实现Trie前缀树 {
 
   Node root;
 

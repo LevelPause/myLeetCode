@@ -3,7 +3,7 @@ package com.hyperboat.daily.y2024.m07.d25;
 /*
  * https://leetcode.cn/problems/minimum-operations-to-make-a-special-number/description/?envType=daily-question&envId=2024-07-25
  * */
-public class LC2844 {
+class LC2844 {
 
   public int minimumOperations(String num) {
     int n = num.length();

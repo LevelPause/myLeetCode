@@ -6,7 +6,7 @@ import java.util.List;
 /*
  * https://leetcode.cn/problems/insert-interval/description/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _57插入区间 {
+class _57插入区间 {
 
   public int[][] insert(int[][] intervals, int[] newInterval) {
     List<int[]> ans = new ArrayList<>();

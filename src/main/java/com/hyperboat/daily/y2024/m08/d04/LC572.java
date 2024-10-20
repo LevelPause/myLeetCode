@@ -3,7 +3,7 @@ package com.hyperboat.daily.y2024.m08.d04;
 /*
  * https://leetcode.cn/problems/subtree-of-another-tree/description/
  * */
-public class LC572 {
+class LC572 {
 
   public boolean isSubtree(TreeNode root, TreeNode subRoot) {
     return check(root, subRoot) || isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot);

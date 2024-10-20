@@ -4,7 +4,7 @@ package com.hyperboat.题单.面试经典150题.数组_字符串;
  * @author zhangweigang
  * @date 2023年10月20日 23:23
  */
-public class _134加油站 {
+class _134加油站 {
 
   public int canCompleteCircuit(int[] gas, int[] cost) {
     int n = gas.length;

@@ -2,7 +2,7 @@ package com.hyperboat.题单.面试经典150题.哈希表;
 
 import java.util.HashMap;
 
-public class _205同构字符串 {
+class _205同构字符串 {
 
   public boolean isIsomorphic(String s, String t) {
     if (s.length() != t.length()) {

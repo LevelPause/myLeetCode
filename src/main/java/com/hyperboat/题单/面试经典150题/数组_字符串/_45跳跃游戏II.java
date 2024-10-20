@@ -4,7 +4,7 @@ package com.hyperboat.题单.面试经典150题.数组_字符串;
  * @author zhangweigang
  * @date 2023年10月20日 1:45
  */
-public class _45跳跃游戏II {
+class _45跳跃游戏II {
 
   public int jump(int[] nums) {
     int n = nums.length;

@@ -4,7 +4,7 @@ package com.hyperboat.题单.面试经典150题.数组_字符串;
  * @author zhangweigang
  * @date 2023年10月20日 6:12
  */
-public class _238除自身以外数组的乘积 {
+class _238除自身以外数组的乘积 {
 
   //时间复杂度O(n) 空间复杂度O(n) 主要思路是将步骤拆开, 先计算元素i左边的乘积, 再计算元素i右边的乘积, 最后再合并相乘
   public int[] productExceptSelf(int[] nums) {

@@ -8,7 +8,7 @@ import java.util.Map;
 /*
  * https://leetcode.cn/problems/snakes-and-ladders/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _909蛇梯棋 {
+class _909蛇梯棋 {
 
   int n;
   int[] nums;

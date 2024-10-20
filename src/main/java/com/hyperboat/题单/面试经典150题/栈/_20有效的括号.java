@@ -5,7 +5,7 @@ import java.util.Stack;
 /*
  * https://leetcode.cn/problems/valid-parentheses/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _20有效的括号 {
+class _20有效的括号 {
 
   public boolean isValid(String s) {
     Stack<Character> chars = new Stack<>();

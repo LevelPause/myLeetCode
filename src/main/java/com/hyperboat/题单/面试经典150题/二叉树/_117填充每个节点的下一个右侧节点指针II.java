@@ -7,7 +7,7 @@ https://leetcode.cn/problems/populating-next-right-pointers-in-each-node-ii/?env
 import java.util.ArrayList;
 import java.util.List;
 
-public class _117填充每个节点的下一个右侧节点指针II {
+class _117填充每个节点的下一个右侧节点指针II {
 
   List<Node> nodes;
 

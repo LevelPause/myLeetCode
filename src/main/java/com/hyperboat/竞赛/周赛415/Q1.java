@@ -6,7 +6,7 @@ import java.util.Set;
 /*
  * https://leetcode.cn/contest/weekly-contest-415/problems/the-two-sneaky-numbers-of-digitville/
  * */
-public class Q1 {
+class Q1 {
 
   class Solution {
 

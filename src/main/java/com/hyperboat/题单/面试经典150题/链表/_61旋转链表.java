@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.链表;
 /*
  * https://leetcode.cn/problems/rotate-list/?envType=study-plan-v2&envId=top-interview-150
  * Definition for singly-linked list.
- * public class ListNode {
+ * class ListNode {
  *     int val;
  *     ListNode next;
  *     ListNode() {}
@@ -43,7 +43,7 @@ class _61旋转链表 {
     return dummy.next;
   }
 
-  public class ListNode {
+  class ListNode {
 
     int val;
     ListNode next;

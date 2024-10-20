@@ -10,7 +10,7 @@ import java.util.Random;
  * @author zhangweigang
  * @date 2023年10月20日 5:29
  */
-public class _380_O1时间插入删除和获取随机元素 {
+class _380_O1时间插入删除和获取随机元素 {
 
   private List<Integer> nums;
   private Map<Integer, Integer> map;

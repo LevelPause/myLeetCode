@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.其他;
 /**
  * https://leetcode.cn/problems/set-mismatch/description/
  */
-public class _645_错误的集合 {
+class _645_错误的集合 {
 
   class Solution {
 

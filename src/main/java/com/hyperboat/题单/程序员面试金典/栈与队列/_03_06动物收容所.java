@@ -5,7 +5,7 @@ import java.util.LinkedList;
 /*
  * https://leetcode.cn/problems/animal-shelter-lcci/description/?envType=study-plan-v2&envId=cracking-the-coding-interview
  * */
-public class _03_06动物收容所 {
+class _03_06动物收容所 {
 
   LinkedList<int[]> stack;
 

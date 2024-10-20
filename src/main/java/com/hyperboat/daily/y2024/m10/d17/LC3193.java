@@ -5,7 +5,7 @@ import java.util.Arrays;
 /*
  * https://leetcode.cn/problems/count-the-number-of-inversions/description/
  * */
-public class LC3193 {
+class LC3193 {
 
   class Solution {
 

@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 /*
  * https://leetcode.cn/problems/relocate-marbles/description/
  * */
-public class LC2766 {
+class LC2766 {
 
   public List<Integer> relocateMarbles(int[] nums, int[] moveFrom, int[] moveTo) {
     return hashset(nums, moveFrom, moveTo);

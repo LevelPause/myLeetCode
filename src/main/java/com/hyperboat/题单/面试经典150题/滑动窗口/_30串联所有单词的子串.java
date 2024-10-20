@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class _30串联所有单词的子串 {
+class _30串联所有单词的子串 {
 
   public List<Integer> findSubstring(String s, String[] words) {
     List<Integer> res = new ArrayList<>();

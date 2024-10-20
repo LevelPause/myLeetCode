@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.异或性质;
 /*
  * https://leetcode.cn/problems/neighboring-bitwise-xor/description/
  * */
-public class _2683_相邻值的按位异或 {
+class _2683_相邻值的按位异或 {
 
   class Solution {
 

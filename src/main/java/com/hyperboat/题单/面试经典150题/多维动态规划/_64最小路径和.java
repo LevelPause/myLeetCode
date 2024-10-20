@@ -1,6 +1,6 @@
 package com.hyperboat.题单.面试经典150题.多维动态规划;
 
-public class _64最小路径和 {
+class _64最小路径和 {
 
   public int minPathSum(int[][] grid) {
     int m = grid.length;

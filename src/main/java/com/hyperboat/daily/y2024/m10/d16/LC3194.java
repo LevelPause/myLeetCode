@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * https://leetcode.cn/problems/minimum-average-of-smallest-and-largest-elements/description/
  */
-public class LC3194 {
+class LC3194 {
 
   class Solution {
 

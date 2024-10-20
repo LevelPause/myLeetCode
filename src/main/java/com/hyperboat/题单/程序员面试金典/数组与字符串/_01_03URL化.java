@@ -3,7 +3,7 @@ package com.hyperboat.题单.程序员面试金典.数组与字符串;
 /*
  * https://leetcode.cn/problems/string-to-url-lcci/?envType=study-plan-v2&envId=cracking-the-coding-interview
  * */
-public class _01_03URL化 {
+class _01_03URL化 {
 
   public String replaceSpaces(String S, int length) {
     return chars(S, length);

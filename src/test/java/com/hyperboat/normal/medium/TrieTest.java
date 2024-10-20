@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
  * @author zhangweigang
  * @date 2022年06月18日 20:13
  */
-public class TrieTest {
+class TrieTest {
 
   @Test
   public void test() {

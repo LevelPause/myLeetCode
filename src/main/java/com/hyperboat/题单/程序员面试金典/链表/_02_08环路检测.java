@@ -1,6 +1,6 @@
 package com.hyperboat.题单.程序员面试金典.链表;
 
-public class _02_08环路检测 {
+class _02_08环路检测 {
 
   // 数学证明： 设起点到入环点距离为a, 环长为b, 相遇点距离入环点还剩c
 //  快指针的里程S1=a+(n+1)b+(b-c)
@@ -35,7 +35,7 @@ public class _02_08环路检测 {
     return fast;
   }
 
-  public class ListNode {
+  class ListNode {
 
     int val;
     ListNode next;

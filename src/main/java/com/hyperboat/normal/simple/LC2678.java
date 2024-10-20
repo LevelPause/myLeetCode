@@ -4,7 +4,7 @@ package com.hyperboat.normal.simple;
  * @author zhangweigang
  * @date 2023年10月23日
  */
-public class LC2678 {
+class LC2678 {
 
   public int countSeniors(String[] details) {
     int res = 0;

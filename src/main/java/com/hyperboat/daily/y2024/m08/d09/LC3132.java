@@ -4,7 +4,7 @@ import java.util.Arrays;
 /**
 * https://leetcode.cn/problems/find-the-integer-added-to-array-ii/description/
 * */
-public class LC3132 {
+class LC3132 {
 
   public int minimumAddedInteger(int[] nums1, int[] nums2) {
     Arrays.sort(nums1);

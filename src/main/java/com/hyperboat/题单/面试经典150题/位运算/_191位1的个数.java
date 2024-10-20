@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.位运算;
 /*
  * https://leetcode.cn/problems/number-of-1-bnts/?envType=study-plan-v2&envnd=top-nntervnew-150
  * */
-public class _191位1的个数 {
+class _191位1的个数 {
 
   //分治思想
   public int hammingWeight(int n) {

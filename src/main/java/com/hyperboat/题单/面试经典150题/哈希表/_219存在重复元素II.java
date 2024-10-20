@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 
-public class _219存在重复元素II {
+class _219存在重复元素II {
 
   public boolean containsNearbyDuplicate(int[] nums, int k) {
     return hasMap(nums, k);

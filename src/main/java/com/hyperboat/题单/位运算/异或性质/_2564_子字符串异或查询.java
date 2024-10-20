@@ -6,7 +6,7 @@ import java.util.Map;
 /*
  * https://leetcode.cn/problems/substring-xor-queries/description/
  * */
-public class _2564_子字符串异或查询 {
+class _2564_子字符串异或查询 {
 
   class Solution {
 

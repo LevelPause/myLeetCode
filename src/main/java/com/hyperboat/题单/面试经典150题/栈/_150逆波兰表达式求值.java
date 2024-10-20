@@ -6,7 +6,7 @@ import java.util.Deque;
 /*
  * https://leetcode.cn/problems/evaluate-reverse-polish-notation/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _150逆波兰表达式求值 {
+class _150逆波兰表达式求值 {
 
   /*
    * todo

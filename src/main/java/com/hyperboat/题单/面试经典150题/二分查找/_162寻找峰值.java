@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.二分查找;
 /*
  * https://leetcode.cn/problems/find-peak-element/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _162寻找峰值 {
+class _162寻找峰值 {
 
   public int findPeakElement(int[] nums) {
     int l = 0;

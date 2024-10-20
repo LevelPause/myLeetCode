@@ -1,6 +1,6 @@
 package com.hyperboat.竞赛.周赛411;
 
-public class Q2_超级饮料的最大强化能量 {
+class Q2_超级饮料的最大强化能量 {
 
   public long maxEnergyBoost(int[] energyDrinkA, int[] energyDrinkB) {
     int n = energyDrinkA.length;

@@ -6,7 +6,7 @@ import java.util.List;
 /*
  * https://leetcode.cn/problems/find-indices-of-stable-mountains/description/
  * */
-public class Q1 {
+class Q1 {
 
   class Solution {
 

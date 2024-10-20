@@ -5,7 +5,7 @@ package com.hyperboat.normal.diffcult;
  * @author zhangweigang
  * @date 2022年06月18日 20:13
  */
-public class LC1962 {
+class LC1962 {
 
   public int[] longestObstacleCourseAtEachPosition(int[] obstacles) {
     int[] res = new int[obstacles.length];

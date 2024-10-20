@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.基础;
 /*
  * https://leetcode.cn/problems/number-of-even-and-odd-bits/description/
  * */
-public class _2595_奇偶位数 {
+class _2595_奇偶位数 {
 
   class Solution {
 

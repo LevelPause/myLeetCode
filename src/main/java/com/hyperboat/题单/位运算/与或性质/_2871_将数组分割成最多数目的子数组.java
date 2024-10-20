@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.与或性质;
 /*
  * https://leetcode.cn/problems/split-array-into-maximum-number-of-subarrays/description/
  * */
-public class _2871_将数组分割成最多数目的子数组 {
+class _2871_将数组分割成最多数目的子数组 {
 
   class Solution {
 

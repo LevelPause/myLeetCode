@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.其他;
 /**
  * https://leetcode.cn/problems/concatenation-of-consecutive-binary-numbers/description/
  */
-public class _1680_连接连续二进制数字 {
+class _1680_连接连续二进制数字 {
 
   class Solution {
 

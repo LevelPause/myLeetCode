@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.一维动态规划;
 /*
  * https://leetcode.cn/problems/house-robber/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _198打家劫舍 {
+class _198打家劫舍 {
 
   public int rob(int[] nums) {
     int n = nums.length;

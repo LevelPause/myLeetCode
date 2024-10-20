@@ -1,6 +1,6 @@
 package com.hyperboat.题单.程序员面试金典.栈与队列;
 
-public class _03_01三合一 {
+class _03_01三合一 {
 
   int[][] arr;
 

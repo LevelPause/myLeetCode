@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.拆位法贡献法;
 /*
  * https://leetcode.cn/problems/total-hamming-distance/description/
  * */
-public class _477_汉明距离总和 {
+class _477_汉明距离总和 {
 
   class Solution {
 

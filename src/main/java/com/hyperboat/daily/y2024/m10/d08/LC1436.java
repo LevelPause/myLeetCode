@@ -7,7 +7,7 @@ import java.util.Set;
 /*
  * https://leetcode.cn/problems/destination-city/description/?envType=daily-question&envId=2024-10-08
  * */
-public class LC1436 {
+class LC1436 {
 
   class Solution {
 

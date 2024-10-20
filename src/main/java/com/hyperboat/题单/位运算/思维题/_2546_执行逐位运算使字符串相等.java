@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.思维题;
 /**
  * https://leetcode.cn/problems/apply-bitwise-operations-to-make-strings-equal/description/
  */
-public class _2546_执行逐位运算使字符串相等 {
+class _2546_执行逐位运算使字符串相等 {
 
   class Solution {
 

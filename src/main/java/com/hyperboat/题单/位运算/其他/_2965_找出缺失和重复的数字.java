@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.其他;
 /**
  * https://leetcode.cn/problems/find-missing-and-repeated-values/description/
  */
-public class _2965_找出缺失和重复的数字 {
+class _2965_找出缺失和重复的数字 {
 
   class Solution {
 

@@ -9,7 +9,7 @@ import java.util.Map;
 /*
  * https://leetcode.cn/problems/minimum-genetic-mutation/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _433最小基因变化 {
+class _433最小基因变化 {
 
   public int minMutation(String startGene, String endGene, String[] bank) {
     int n = endGene.length();

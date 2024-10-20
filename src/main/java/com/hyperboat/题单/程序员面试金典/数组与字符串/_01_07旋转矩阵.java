@@ -3,7 +3,7 @@ package com.hyperboat.题单.程序员面试金典.数组与字符串;
 /*
  * https://leetcode.cn/problems/rotate-matrix-lcci/description/?envType=study-plan-v2&envId=cracking-the-coding-interview
  * */
-public class _01_07旋转矩阵 {
+class _01_07旋转矩阵 {
 
   public void rotate(int[][] matrix) {
     int n = matrix.length;

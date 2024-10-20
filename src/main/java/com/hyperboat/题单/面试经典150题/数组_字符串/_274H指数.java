@@ -6,7 +6,7 @@ import java.util.Arrays;
  * @author zhangweigang
  * @date 2023年10月20日 3:59
  */
-public class _274H指数 {
+class _274H指数 {
 
   public int hIndex(int[] citations) {
     Arrays.sort(citations);

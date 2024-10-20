@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.多维动态规划;
 /*
  * https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iv/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _188买卖股票的最佳时机IV {
+class _188买卖股票的最佳时机IV {
 
   public int maxProfit(int k, int[] prices) {
     int[] dp = new int[k * 2];

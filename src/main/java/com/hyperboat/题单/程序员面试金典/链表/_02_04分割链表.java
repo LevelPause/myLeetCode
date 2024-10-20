@@ -3,7 +3,7 @@ package com.hyperboat.题单.程序员面试金典.链表;
 /*
  * https://leetcode.cn/problems/partition-list-lcci/?envType=study-plan-v2&envId=cracking-the-coding-interview
  * */
-public class _02_04分割链表 {
+class _02_04分割链表 {
 
   public ListNode partition(ListNode head, int x) {
     ListNode lDummy = new ListNode(-1);
@@ -33,7 +33,7 @@ public class _02_04分割链表 {
     preR.next = l;
   }
 
-  public class ListNode {
+  class ListNode {
 
     int val;
     ListNode next;

@@ -1,6 +1,6 @@
 package com.hyperboat.竞赛.周赛412;
 
-public class Q2_统计近似相等数对I {
+class Q2_统计近似相等数对I {
 
   static class Solution {
 

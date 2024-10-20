@@ -4,7 +4,7 @@ package com.hyperboat.题单.面试经典150题.数组_字符串;
  * @author zhangweigang
  * @date 2023年10月22日
  */
-public class _151反转字符串中的单词 {
+class _151反转字符串中的单词 {
 
   public String reverseMessage(String message) {
     StringBuilder res = new StringBuilder();

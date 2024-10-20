@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.试填法;
 /*
  * https://leetcode.cn/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/description/
  * */
-public class _3007_价值和小于等于K的最大数字 {
+class _3007_价值和小于等于K的最大数字 {
 
   class Solution {
 

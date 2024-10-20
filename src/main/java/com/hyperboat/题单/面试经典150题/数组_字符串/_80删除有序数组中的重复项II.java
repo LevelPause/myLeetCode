@@ -4,7 +4,7 @@ package com.hyperboat.题单.面试经典150题.数组_字符串;
  * @author zhangweigang
  * @date 2023年10月18日 11:38
  */
-public class _80删除有序数组中的重复项II {
+class _80删除有序数组中的重复项II {
 
   //优化写法, 有k的通解， 在此题中k==2
   public int removeDuplicates(int[] nums) {

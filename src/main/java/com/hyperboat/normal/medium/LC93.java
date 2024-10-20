@@ -3,7 +3,7 @@ package com.hyperboat.normal.medium;
 import java.util.ArrayList;
 import java.util.List;
 
-public class LC93 {
+class LC93 {
 
   class Solution {
 

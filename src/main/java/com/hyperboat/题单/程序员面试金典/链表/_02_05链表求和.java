@@ -3,7 +3,7 @@ package com.hyperboat.题单.程序员面试金典.链表;
 /**
  * https://leetcode.cn/problems/sum-lists-lcci/?envType=study-plan-v2&envId=cracking-the-coding-interview
  */
-public class _02_05链表求和 {
+class _02_05链表求和 {
 
   public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
     int carry = 0;
@@ -29,7 +29,7 @@ public class _02_05链表求和 {
     return dummy.next;
   }
 
-  public class ListNode {
+  class ListNode {
 
     int val;
     ListNode next;

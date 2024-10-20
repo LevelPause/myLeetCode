@@ -7,7 +7,7 @@ import java.util.stream.Stream;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-class LC797Test {
+public class LC797Test {
 
   @Test
   void allPathsSourceTarget() {

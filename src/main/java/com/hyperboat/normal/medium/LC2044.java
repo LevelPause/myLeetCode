@@ -12,7 +12,7 @@ package com.hyperboat.normal.medium;
  * 对数组a执行按位或，结果等于a[0] OR a[1] OR...OR a[a.length-1]（下标从0开始）。
  * <p>
  */
-public class LC2044 {
+class LC2044 {
 
   private int ans = 0;
   private int maxNum = 0;

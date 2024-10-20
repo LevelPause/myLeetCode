@@ -6,7 +6,7 @@ import java.util.List;
 /*
  * https://leetcode.cn/contest/biweekly-contest-141/problems/construct-the-minimum-bitwise-array-i/description/
  * */
-public class _Q1_构造最小位运算数组I {
+class _Q1_构造最小位运算数组I {
 
   class Solution {
 

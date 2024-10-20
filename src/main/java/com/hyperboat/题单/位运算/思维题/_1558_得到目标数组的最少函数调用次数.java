@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.思维题;
 /**
  * https://leetcode.cn/problems/minimum-numbers-of-function-calls-to-make-target-array/description/
  */
-public class _1558_得到目标数组的最少函数调用次数 {
+class _1558_得到目标数组的最少函数调用次数 {
 
   class Solution {
 

@@ -3,7 +3,7 @@ package com.hyperboat.daily.y2024.m10.d01;
 /**
  * https://leetcode.cn/problems/minimum-cost-for-tickets/description/
  */
-public class LC983 {
+class LC983 {
 
   class Solution {
 

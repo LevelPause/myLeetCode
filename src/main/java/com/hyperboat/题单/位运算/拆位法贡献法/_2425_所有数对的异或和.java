@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.拆位法贡献法;
 /*
  * https://leetcode.cn/problems/bitwise-xor-of-all-pairings/description/
  * */
-public class _2425_所有数对的异或和 {
+class _2425_所有数对的异或和 {
 
   class Solution {
 

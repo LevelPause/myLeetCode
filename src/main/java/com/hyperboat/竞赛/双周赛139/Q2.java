@@ -7,7 +7,7 @@ import java.util.List;
 /*
  * https://leetcode.cn/problems/find-a-safe-walk-through-a-grid/
  * */
-public class Q2 {
+class Q2 {
 
   class Solution {
 

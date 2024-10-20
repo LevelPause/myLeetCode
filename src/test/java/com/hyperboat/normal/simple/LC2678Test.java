@@ -9,7 +9,7 @@ import org.junit.jupiter.api.Test;
  * @author zhangweigang
  * @date 2023年10月23日
  */
-class LC2678Test {
+public class LC2678Test {
 
   @Test
   void countSeniors() {

@@ -2,7 +2,7 @@ package com.hyperboat.daily.y2024.m08.d25;
 
 import java.util.Arrays;
 
-public class LC698 {
+class LC698 {
 
   class Solution {
 

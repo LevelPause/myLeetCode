@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.哈希表;
 import java.util.HashMap;
 import java.util.Map;
 
-public class _1两数之和 {
+class _1两数之和 {
 
   public int[] twoSum(int[] nums, int target) {
     Map<Integer, Integer> map = new HashMap<>();

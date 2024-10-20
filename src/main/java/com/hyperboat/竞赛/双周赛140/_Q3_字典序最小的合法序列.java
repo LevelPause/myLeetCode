@@ -3,7 +3,7 @@ package com.hyperboat.竞赛.双周赛140;
 /*
  * https://leetcode.cn/contest/biweekly-contest-140/problems/find-the-lexicographically-smallest-valid-sequence/description/
  * */
-public class _Q3_字典序最小的合法序列 {
+class _Q3_字典序最小的合法序列 {
 
   class Solution {
 

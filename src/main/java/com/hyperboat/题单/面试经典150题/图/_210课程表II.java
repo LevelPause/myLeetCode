@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Queue;
 
-public class _210课程表II {
+class _210课程表II {
 
   public int[] findOrder(int numCourses, int[][] prerequisites) {
     int[] inDegree = new int[numCourses];

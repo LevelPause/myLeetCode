@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.与或性质;
 /*
  * https://leetcode.cn/problems/longest-subarray-with-maximum-bitwise-and/description/
  * */
-public class _2419_按位与最大的最长子数组 {
+class _2419_按位与最大的最长子数组 {
 
   class Solution {
 

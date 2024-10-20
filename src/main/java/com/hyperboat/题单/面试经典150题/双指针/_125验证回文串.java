@@ -4,7 +4,7 @@ package com.hyperboat.题单.面试经典150题.双指针;
  * @author zhangweigang
  * @date 2023年10月22日
  */
-public class _125验证回文串 {
+class _125验证回文串 {
 
   //简单, 过滤掉不符合题意的字符然后进行头尾判断相等即可, 为节省空间, 可直接在原串遍历, 不符合条件的字符跳过即可, 注意要及时判断循环条件, 防止出现越界
   public boolean isPalindrome(String s) {

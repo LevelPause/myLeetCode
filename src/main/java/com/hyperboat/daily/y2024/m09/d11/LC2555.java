@@ -3,7 +3,7 @@ package com.hyperboat.daily.y2024.m09.d11;
 /*
  * https://leetcode.cn/problems/maximize-win-from-two-segments/description/
  * */
-public class LC2555 {
+class LC2555 {
 
   class Solution {
 

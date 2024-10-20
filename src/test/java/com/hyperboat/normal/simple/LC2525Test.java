@@ -9,7 +9,7 @@ import org.junit.jupiter.api.Test;
  * @author zhangweigang
  * @date 2023年10月20日 1:11
  */
-class LC2525Test {
+public class LC2525Test {
 
   @Test
   void categorizeBox() {

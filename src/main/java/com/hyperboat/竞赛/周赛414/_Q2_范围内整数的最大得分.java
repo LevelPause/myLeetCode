@@ -2,7 +2,7 @@ package com.hyperboat.竞赛.周赛414;
 
 import java.util.Arrays;
 
-public class _Q2_范围内整数的最大得分 {
+class _Q2_范围内整数的最大得分 {
 
   //todo 没完全掌握
 // 二分, 在求最大化最小值或最小化最大值的时候就要想到用二分

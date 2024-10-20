@@ -3,7 +3,7 @@ package com.hyperboat.daily.y2024.m08.d05;
 /*
  * https://leetcode.cn/problems/non-negative-integers-without-consecutive-ones/
  * */
-public class LC600 {
+class LC600 {
 
   static int[] dp = new int[32];
 

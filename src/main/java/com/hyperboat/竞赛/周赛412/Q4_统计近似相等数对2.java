@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-public class Q4_统计近似相等数对2 {
+class Q4_统计近似相等数对2 {
 
   static class Solution {
 

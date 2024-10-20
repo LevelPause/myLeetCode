@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-class LC3131Test {
+public class LC3131Test {
 
   @Test
   void addedInteger() {

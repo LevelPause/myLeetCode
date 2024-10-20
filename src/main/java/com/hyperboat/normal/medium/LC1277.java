@@ -7,7 +7,7 @@ package com.hyperboat.normal.medium;
  * dp[i][j]=x表示以(i,j)为右下角的正方形的最大边长，也表示以(i,j)为右下角的正方形的个数(这个太难想了)
  * 想到dp[i][j] = min(dp[][],dp[][],dp[][])+1这个地推关系是关键
  */
-public class LC1277 {
+class LC1277 {
   public int countSquares(int[][] matrix) {
     int res = 0;
     int m = matrix.length;

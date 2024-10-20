@@ -3,7 +3,7 @@ package com.hyperboat.daily.y2024.m09.d19;
 /*
  * https://leetcode.cn/problems/length-of-the-longest-alphabetical-continuous-substring/
  * */
-public class LC2414 {
+class LC2414 {
 
   class Solution {
 

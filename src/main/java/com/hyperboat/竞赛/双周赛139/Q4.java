@@ -6,7 +6,7 @@ import java.util.List;
 /*
  *https://leetcode.cn/problems/length-of-the-longest-increasing-path/
  * */
-public class Q4 {
+class Q4 {
 
   class Solution {
 

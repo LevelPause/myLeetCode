@@ -1,6 +1,6 @@
 package com.hyperboat.normal.simple;
 
-public class LCR126 {
+class LCR126 {
 
   /**
    * 滑动数组实现斐波那契

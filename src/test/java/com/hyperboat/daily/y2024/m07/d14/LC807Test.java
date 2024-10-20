@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-class LC807Test {
+public class LC807Test {
 
   @Test
   void maxIncreaseKeepingSkyline() {

@@ -3,7 +3,7 @@ package com.hyperboat.normal.diffcult;
 import java.util.ArrayList;
 import java.util.List;
 
-public class LC797 {
+class LC797 {
 
   public List<List<Integer>> allPathsSourceTarget(int[][] graph) {
     int n = graph.length;

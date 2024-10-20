@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.其他;
 /**
  * https://leetcode.cn/problems/single-number/description/
  */
-public class _136_只出现一次的数字 {
+class _136_只出现一次的数字 {
 
   class Solution {
 

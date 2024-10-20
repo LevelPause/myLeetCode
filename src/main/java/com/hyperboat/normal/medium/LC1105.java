@@ -24,7 +24,7 @@ package com.hyperboat.normal.medium;
  * 1 <= books[i][1] <= 1000
  * </pre>
  */
-public class LC1105 {
+class LC1105 {
 
   public static void main(String[] args) {
     int[][] books = new int[][]{{1, 1}, {2, 3}, {2, 3}, {1, 1}, {1, 1}, {1, 1}, {1, 2}};

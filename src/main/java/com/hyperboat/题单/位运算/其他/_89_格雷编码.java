@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * https://leetcode.cn/problems/gray-code/description/
  */
-public class _89_格雷编码 {
+class _89_格雷编码 {
 
   class Solution {
 

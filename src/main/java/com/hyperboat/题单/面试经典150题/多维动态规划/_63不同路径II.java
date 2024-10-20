@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.多维动态规划;
 /*
  * https://leetcode.cn/problems/unique-paths-ii/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _63不同路径II {
+class _63不同路径II {
 
   public int uniquePathsWithObstacles(int[][] obstacleGrid) {
     int n = obstacleGrid[0].length;

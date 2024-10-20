@@ -7,7 +7,7 @@ import java.util.Map;
 /*
  * https://leetcode.cn/problems/find-the-sum-of-subsequence-powers/description/
  * */
-public class LC3098 {
+class LC3098 {
 
   int[] nums;
   Map<String, Long> map;

@@ -3,7 +3,7 @@ package com.hyperboat.daily.y2024.m09.d22;
 /*
  * https://leetcode.cn/problems/find-the-town-judge/submissions/566856174/
  * */
-public class LC997 {
+class LC997 {
 
   class Solution {
 

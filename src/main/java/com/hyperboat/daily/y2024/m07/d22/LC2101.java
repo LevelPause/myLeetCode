@@ -6,7 +6,7 @@ import java.util.Set;
 /*
  * https://leetcode.cn/problems/detonate-the-maximum-bombs/description/
  * */
-public class LC2101 {
+class LC2101 {
 
   // floyd算法, 求解多源最短路径
   public int maximumDetonation(int[][] bombs) {

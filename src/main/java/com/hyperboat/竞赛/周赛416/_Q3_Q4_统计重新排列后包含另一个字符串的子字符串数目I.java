@@ -4,7 +4,7 @@ package com.hyperboat.竞赛.周赛416;
  * https://leetcode.cn/contest/weekly-contest-416/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-i/
  * https://leetcode.cn/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-ii/description/
  * */
-public class _Q3_Q4_统计重新排列后包含另一个字符串的子字符串数目I {
+class _Q3_Q4_统计重新排列后包含另一个字符串的子字符串数目I {
 
   static class Solution {
 

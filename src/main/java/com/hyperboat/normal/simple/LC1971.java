@@ -1,6 +1,6 @@
 package com.hyperboat.normal.simple;
 
-public class LC1971 {
+class LC1971 {
 
   public boolean validPath(int n, int[][] edges, int source, int destination) {
     UnionFind uf = new UnionFind(n);

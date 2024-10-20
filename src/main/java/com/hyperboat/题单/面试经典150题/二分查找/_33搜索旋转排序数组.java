@@ -1,6 +1,6 @@
 package com.hyperboat.题单.面试经典150题.二分查找;
 
-public class _33搜索旋转排序数组 {
+class _33搜索旋转排序数组 {
 
   public int search(int[] nums, int target) {
     int n = nums.length;

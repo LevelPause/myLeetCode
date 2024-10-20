@@ -1,6 +1,6 @@
 package com.hyperboat.daily.y2024.m08.d11;
 
-public class LC1035 {
+class LC1035 {
 
   public int maxUncrossedLines(int[] nums1, int[] nums2) {
     int m = nums1.length;

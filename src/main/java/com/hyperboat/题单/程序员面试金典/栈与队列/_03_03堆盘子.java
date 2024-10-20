@@ -8,7 +8,7 @@ import java.util.List;
 /*
  * https://leetcode.cn/problems/stack-of-plates-lcci/description/?envType=study-plan-v2&envId=cracking-the-coding-interview
  * */
-public class _03_03堆盘子 {
+class _03_03堆盘子 {
 
   List<Deque<Integer>> stacks;
   int cap;

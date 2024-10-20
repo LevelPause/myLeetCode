@@ -1,6 +1,6 @@
 package com.hyperboat.竞赛.周赛412;
 
-public class Q1_K次乘运算后的最终数组I {
+class Q1_K次乘运算后的最终数组I {
 
   class Solution {
 

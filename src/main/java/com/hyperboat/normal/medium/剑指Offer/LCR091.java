@@ -14,7 +14,7 @@ package com.hyperboat.normal.medium.剑指Offer;
  * @author zhangweigang
  * @date 2022年06月25日 21:20
  */
-public class LCR091 {
+class LCR091 {
 
   public int minCost(int[][] costs) {
     var n = costs.length;

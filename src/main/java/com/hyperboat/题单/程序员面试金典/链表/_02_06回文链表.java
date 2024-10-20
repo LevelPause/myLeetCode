@@ -6,7 +6,7 @@ import java.util.List;
 /*
  * https://leetcode.cn/problems/palindrome-linked-list-lcci/?envType=study-plan-v2&envId=cracking-the-coding-interview
  * */
-public class _02_06回文链表 {
+class _02_06回文链表 {
 
   public boolean isPalindrome(ListNode head) {
     if (head == null) {
@@ -47,7 +47,7 @@ public class _02_06回文链表 {
     return slow;
   }
 
-  public class ListNode {
+  class ListNode {
 
     int val;
     ListNode next;

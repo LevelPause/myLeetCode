@@ -6,7 +6,7 @@ import java.util.Map;
 /*
  * https://leetcode.cn/problems/number-of-islands/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _200岛屿数量 {
+class _200岛屿数量 {
 
   public int numIslands(char[][] grid) {
     int count = 0;

@@ -6,7 +6,7 @@ import java.util.Arrays;
  * @author zhangweigang
  * @date 2023年10月18日 12:03
  */
-public class _169多数元素 {
+class _169多数元素 {
 
   //投票算法  很有意思，用来找超过总数一半的数
   public int majorityElement(int[] nums) {

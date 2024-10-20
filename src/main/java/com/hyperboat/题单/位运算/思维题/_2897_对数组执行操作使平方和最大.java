@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * https://leetcode.cn/problems/apply-operations-on-array-to-maximize-sum-of-squares/description/
  */
-public class _2897_对数组执行操作使平方和最大 {
+class _2897_对数组执行操作使平方和最大 {
 
 
   class Solution {

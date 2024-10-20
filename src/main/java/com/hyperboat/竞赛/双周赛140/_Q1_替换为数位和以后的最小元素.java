@@ -3,7 +3,7 @@ package com.hyperboat.竞赛.双周赛140;
 /*
  * https://leetcode.cn/contest/biweekly-contest-140/problems/minimum-element-after-replacement-with-digit-sum/description/
  * */
-public class _Q1_替换为数位和以后的最小元素 {
+class _Q1_替换为数位和以后的最小元素 {
 
   class Solution {
 

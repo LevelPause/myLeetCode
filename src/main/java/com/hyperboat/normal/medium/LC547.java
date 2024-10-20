@@ -1,6 +1,6 @@
 package com.hyperboat.normal.medium;
 
-public class LC547 {
+class LC547 {
 
   public int findCircleNum(int[][] isConnected) {
     int n = isConnected.length;

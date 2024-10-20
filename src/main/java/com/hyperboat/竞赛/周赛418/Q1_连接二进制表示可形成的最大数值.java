@@ -5,7 +5,7 @@ import java.util.Arrays;
 /*
  * https://leetcode.cn/contest/weekly-contest-418/problems/maximum-possible-number-by-binary-concatenation/description/
  * */
-public class Q1_连接二进制表示可形成的最大数值 {
+class Q1_连接二进制表示可形成的最大数值 {
 
   class Solution {
 

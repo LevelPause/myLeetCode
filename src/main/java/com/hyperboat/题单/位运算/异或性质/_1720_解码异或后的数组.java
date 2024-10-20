@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.异或性质;
 /*
  * https://leetcode.cn/problems/decode-xored-array/description/
  * */
-public class _1720_解码异或后的数组 {
+class _1720_解码异或后的数组 {
 
   class Solution {
 

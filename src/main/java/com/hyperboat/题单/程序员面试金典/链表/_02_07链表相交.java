@@ -3,7 +3,7 @@ package com.hyperboat.题单.程序员面试金典.链表;
 /**
  * https://leetcode.cn/problems/intersection-of-two-linked-lists-lcci/?envType=study-plan-v2&envId=cracking-the-coding-interview
  */
-public class _02_07链表相交 {
+class _02_07链表相交 {
 
   public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
     if (headA == null || headB == null) {
@@ -18,7 +18,7 @@ public class _02_07链表相交 {
     return currA;
   }
 
-  public class ListNode {
+  class ListNode {
 
     int val;
     ListNode next;

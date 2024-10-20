@@ -14,7 +14,7 @@ import java.util.List;
  * <p>
  * 每一种解法包含一个不同的n 皇后问题 的棋子放置方案，该方案中 'Q' 和 '.' 分别代表了皇后和空位。
  */
-public class LC51 {
+class LC51 {
 
 
 

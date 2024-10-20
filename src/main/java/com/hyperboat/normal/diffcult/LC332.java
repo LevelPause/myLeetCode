@@ -12,7 +12,7 @@ import java.util.TreeMap;
  * @author hyperboat
  * @date 2022年04月15日 21:24
  */
-public class LC332 {
+class LC332 {
 
   private Deque<String> res;
   private Map<String, Map<String, Integer>> map;

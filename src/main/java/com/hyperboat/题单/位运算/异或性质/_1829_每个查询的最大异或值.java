@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.异或性质;
 /*
  * https://leetcode.cn/problems/maximum-xor-for-each-query/description/
  * */
-public class _1829_每个查询的最大异或值 {
+class _1829_每个查询的最大异或值 {
 
   class Solution {
 

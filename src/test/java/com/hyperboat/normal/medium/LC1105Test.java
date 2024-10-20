@@ -5,7 +5,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import com.hyperboat.normal.medium.LC1105;
 import org.junit.jupiter.api.Test;
 
-class LC1105Test {
+public class LC1105Test {
 
   @Test
   void minHeightShelves() {

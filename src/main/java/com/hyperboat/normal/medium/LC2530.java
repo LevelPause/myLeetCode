@@ -6,7 +6,7 @@ import java.util.PriorityQueue;
  * @author zhangweigang
  * @date 2023年10月18日 2:16
  */
-public class LC2530 {
+class LC2530 {
 
   public long maxKelements(int[] nums, int k) {
     PriorityQueue<Integer> integers = new PriorityQueue<>((a, b) -> b - a);

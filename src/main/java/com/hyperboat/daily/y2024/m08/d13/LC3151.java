@@ -3,7 +3,7 @@ package com.hyperboat.daily.y2024.m08.d13;
 /*
  * https://leetcode.cn/problems/special-array-i/
  * */
-public class LC3151 {
+class LC3151 {
 
   static class Solution {
 

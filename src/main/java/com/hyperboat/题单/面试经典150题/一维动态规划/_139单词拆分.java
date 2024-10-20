@@ -5,7 +5,7 @@ import java.util.List;
 /*
  * https://leetcode.cn/problems/word-break/description/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _139单词拆分 {
+class _139单词拆分 {
 
   public boolean wordBreak(String s, List<String> wordDict) {
     int n = s.length();

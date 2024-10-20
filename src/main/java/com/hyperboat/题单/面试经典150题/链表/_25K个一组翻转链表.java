@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.链表;
 /*
  * https://leetcode.cn/problems/reverse-nodes-in-k-group/
  * Definition for singly-linked list.
- * public class ListNode {
+ * class ListNode {
  *     int val;
  *     ListNode next;
  *     ListNode() {}
@@ -11,7 +11,7 @@ package com.hyperboat.题单.面试经典150题.链表;
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-public class _25K个一组翻转链表 {
+class _25K个一组翻转链表 {
 
   public ListNode reverseKGroup(ListNode head, int k) {
     int n = 0;
@@ -40,7 +40,7 @@ public class _25K个一组翻转链表 {
     return dummy.next;
   }
 
-  public class ListNode {
+  class ListNode {
 
     int val;
     ListNode next;

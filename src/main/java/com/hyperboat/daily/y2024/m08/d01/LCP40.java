@@ -5,7 +5,7 @@ import java.util.Arrays;
 /*
  * https://leetcode.cn/problems/uOAnQW/description/
  * */
-public class LCP40 {
+class LCP40 {
 
   public int maxmiumScore(int[] cards, int cnt) {
     Arrays.sort(cards);

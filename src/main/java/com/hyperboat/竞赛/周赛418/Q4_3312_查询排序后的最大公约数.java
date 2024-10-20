@@ -3,7 +3,7 @@ package com.hyperboat.竞赛.周赛418;
 /*
  * https://leetcode.cn/problems/sorted-gcd-pair-queries/description/
  * */
-public class Q4_3312_查询排序后的最大公约数 {
+class Q4_3312_查询排序后的最大公约数 {
 
   class Solution {
 

@@ -4,7 +4,7 @@ package com.hyperboat.题单.面试经典150题.双指针;
  * @author zhangweigang
  * @date 2023年10月22日
  */
-public class _392判断子序列 {
+class _392判断子序列 {
 
   public boolean isSubsequence(String s, String t) {
     int n = s.length();

@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.二叉树;
 /*
  * https://leetcode.cn/problems/count-complete-tree-nodes/?envType=study-plan-v2&envId=top-interview-150
  */
-public class _222完全二叉树的节点个数 {
+class _222完全二叉树的节点个数 {
 
 
   public int countNodes(TreeNode root) {

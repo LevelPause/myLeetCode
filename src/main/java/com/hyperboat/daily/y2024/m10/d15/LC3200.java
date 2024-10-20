@@ -3,7 +3,7 @@ package com.hyperboat.daily.y2024.m10.d15;
 /**
  * https://leetcode.cn/problems/maximum-height-of-a-triangle/description/
  */
-public class LC3200 {
+class LC3200 {
 
   class Solution {
 

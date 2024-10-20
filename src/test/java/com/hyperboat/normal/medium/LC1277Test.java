@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
  * @author zhangweigang
  * @date 2023年10月18日 4:40
  */
-class LC1277Test {
+public class LC1277Test {
 
   @Test
   void countSquares() {

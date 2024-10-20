@@ -7,7 +7,7 @@ import java.util.List;
 /**
  *
  */
-public class _103二叉树的锯齿形层序遍历 {
+class _103二叉树的锯齿形层序遍历 {
 
   // bfs
   List<List<Integer>> res = new ArrayList<>();

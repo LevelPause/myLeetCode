@@ -8,7 +8,7 @@ import java.util.PriorityQueue;
 /*
  * https://leetcode.cn/problems/find-k-pairs-with-smallest-sums/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _373查找和最小的K对数字 {
+class _373查找和最小的K对数字 {
 
   public List<List<Integer>> kSmallestPairs(int[] nums1, int[] nums2, int k) {
     int m = nums1.length;

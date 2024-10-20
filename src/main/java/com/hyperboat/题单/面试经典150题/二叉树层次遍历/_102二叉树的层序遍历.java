@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * https://leetcode.cn/problems/binary-tree-level-order-traversal/?envType=study-plan-v2&envId=top-interview-150
  */
-public class _102二叉树的层序遍历 {
+class _102二叉树的层序遍历 {
 
   List<List<Integer>> res = new ArrayList<>();
 

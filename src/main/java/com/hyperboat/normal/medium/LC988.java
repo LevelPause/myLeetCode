@@ -16,7 +16,7 @@ package com.hyperboat.normal.medium;
 示例 3：
 输入：[2,2,1,null,1,0,null,0]
 输出："abc"*/
-public class LC988 {
+class LC988 {
 
   /*这里ans给定一个初始值‘~’，是为了让在后面的逻辑中第一次进行大小比较时，要比任意的字母字符串大*/
   String ans = "~";

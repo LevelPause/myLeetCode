@@ -1,6 +1,6 @@
 package com.hyperboat.题单.面试经典150题.分治;
 
-public class _23合并K个升序链表 {
+class _23合并K个升序链表 {
 
   ListNode[] lists;
 

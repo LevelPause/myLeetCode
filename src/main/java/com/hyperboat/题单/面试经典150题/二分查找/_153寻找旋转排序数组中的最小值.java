@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.二分查找;
 /*
  * https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _153寻找旋转排序数组中的最小值 {
+class _153寻找旋转排序数组中的最小值 {
 
   public int findMin(int[] nums) {
     int n = nums.length;

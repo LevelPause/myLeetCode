@@ -1,6 +1,6 @@
 package com.hyperboat.normal.medium;
 
-public class LC2492 {
+class LC2492 {
 
   public int minScore(int n, int[][] roads) {
     int min = Integer.MAX_VALUE;

@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.与或性质;
 /*
  * https://leetcode.cn/problems/minimum-cost-walk-in-weighted-graph/description/
  * */
-public class _3108_带权图里旅途的最小代价 {
+class _3108_带权图里旅途的最小代价 {
 
   class Solution {
 

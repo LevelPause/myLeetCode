@@ -12,7 +12,7 @@ package com.hyperboat.题单.面试经典150题.链表;
  *     }
  * }
  */
-public class _141环形链表 {
+class _141环形链表 {
 
   public boolean hasCycle(ListNode head) {
     ListNode slow = head;

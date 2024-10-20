@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.哈希表;
 import java.util.HashSet;
 import java.util.Set;
 
-public class _202快乐数 {
+class _202快乐数 {
 
   public boolean isHappy(int n) {
     return fastAndSlow(n);

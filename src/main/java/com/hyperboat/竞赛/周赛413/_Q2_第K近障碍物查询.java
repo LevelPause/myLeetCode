@@ -5,7 +5,7 @@ import java.util.PriorityQueue;
 /*
  * https://leetcode.cn/contest/weekly-contest-413/problems/k-th-nearest-obstacle-queries/
  * */
-public class _Q2_第K近障碍物查询 {
+class _Q2_第K近障碍物查询 {
 
   class Solution {
 

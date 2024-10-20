@@ -1,8 +1,8 @@
 package com.hyperboat.normal.medium;
 
-public class LC143 {
+class LC143 {
 
-  public class ListNode {
+  class ListNode {
 
     int val;
     ListNode next;

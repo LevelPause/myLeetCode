@@ -10,7 +10,7 @@ import java.util.Map;
 /*
  * https://leetcode.cn/problems/merge-intervals/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _56合并区间 {
+class _56合并区间 {
 
   public int[][] merge(int[][] intervals) {
     return normal(intervals);

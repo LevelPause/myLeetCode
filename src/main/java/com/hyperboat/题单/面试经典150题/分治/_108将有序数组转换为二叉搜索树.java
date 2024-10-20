@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.分治;
 /**
  * https://leetcode.cn/problems/convert-sorted-array-to-binary-search-tree/?envType=study-plan-v2&envId=top-interview-150
  */
-public class _108将有序数组转换为二叉搜索树 {
+class _108将有序数组转换为二叉搜索树 {
 
   int[] nums;
 

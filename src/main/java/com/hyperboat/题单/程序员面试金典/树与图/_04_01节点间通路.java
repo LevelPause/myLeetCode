@@ -7,7 +7,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class _04_01节点间通路 {
+class _04_01节点间通路 {
 
   public boolean findWhetherExistsPath(int n, int[][] graph, int start, int target) {
 //    邻接表

@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
 
-public class LC721 {
+class LC721 {
 
   //  并查集
   public List<List<String>> accountsMerge(List<List<String>> accounts) {

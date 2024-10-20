@@ -7,7 +7,7 @@ import java.util.Map;
  * @author zhangweigang
  * @date 2023年10月23日
  */
-public class _3无重复字符的最长子串 {
+class _3无重复字符的最长子串 {
 
   //经典滑动窗口, 注意l指针移动时可能会倒转至l左边, 要用取最大值来过滤掉这一情况
   public int lengthOfLongestSubstring(String s) {

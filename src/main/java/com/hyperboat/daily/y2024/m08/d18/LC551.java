@@ -1,6 +1,6 @@
 package com.hyperboat.daily.y2024.m08.d18;
 
-public class LC551 {
+class LC551 {
 
   static class Solution {
 

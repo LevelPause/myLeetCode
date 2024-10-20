@@ -6,7 +6,7 @@ import java.util.Arrays;
  * @author zhangweigang
  * @date 2023年10月22日
  */
-public class LC1402 {
+class LC1402 {
 
   //好简单的一道题, 用最基本的贪心原理, 先排序, 按从大到小依次加入结果, 如果当前satisfaction加入后使结果变少了,就舍弃
   public int maxSatisfaction(int[] satisfaction) {

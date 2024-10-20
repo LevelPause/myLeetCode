@@ -1,6 +1,6 @@
 package com.hyperboat.竞赛.双周赛138;
 
-public class _Q3_统计好整数的数目 {
+class _Q3_统计好整数的数目 {
 
   class Solution {
 

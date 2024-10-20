@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.拆位法贡献法;
 /*
  * https://leetcode.cn/problems/largest-combination-with-bitwise-and-greater-than-zero/description/
  * */
-public class _2275_按位与结果大于零的最长组合 {
+class _2275_按位与结果大于零的最长组合 {
 
   class Solution {
 

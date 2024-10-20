@@ -3,7 +3,7 @@ package com.hyperboat.daily.y2024.m09.d24;
 /*
  * https://leetcode.cn/problems/maximize-number-of-subsequences-in-a-string/description/
  * */
-public class LC2207 {
+class LC2207 {
 
   class Solution {
 

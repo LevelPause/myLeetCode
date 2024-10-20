@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.异或性质;
 /*
  * https://leetcode.cn/problems/count-pairs-with-xor-in-a-range/description/
  * */
-public class _1803_统计异或值在范围内的数对有多少 {
+class _1803_统计异或值在范围内的数对有多少 {
 
   class Solution {
     // 字典树思路: 要获得异或值在区间[low, high]的所有对数;

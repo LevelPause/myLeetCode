@@ -8,7 +8,7 @@ import java.util.Queue;
  * https://leetcode.cn/contest/weekly-contest-415/problems/minimum-number-of-valid-strings-to-form-target-i/
  * https://leetcode.cn/problems/minimum-number-of-valid-strings-to-form-target-ii/
  * */
-public class Q3_Q4 {
+class Q3_Q4 {
 
   class Solution {
 

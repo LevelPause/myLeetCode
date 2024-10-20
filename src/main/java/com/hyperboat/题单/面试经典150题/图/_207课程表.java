@@ -8,7 +8,7 @@ import java.util.Queue;
 /*
  * https://leetcode.cn/problems/course-schedule/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _207课程表 {
+class _207课程表 {
 
   // 拓扑排序 用bfs
   public boolean canFinish(int numCourses, int[][] prerequisites) {

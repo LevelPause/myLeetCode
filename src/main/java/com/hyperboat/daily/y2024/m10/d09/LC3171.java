@@ -3,7 +3,7 @@ package com.hyperboat.daily.y2024.m10.d09;
 /*
  * https://leetcode.cn/problems/find-subarray-with-bitwise-or-closest-to-k/description/
  * */
-public class LC3171 {
+class LC3171 {
 
   class Solution {
 

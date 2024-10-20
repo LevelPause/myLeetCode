@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.回溯;
 import java.util.ArrayList;
 import java.util.List;
 
-public class _77组合 {
+class _77组合 {
 
   List<List<Integer>> res;
 

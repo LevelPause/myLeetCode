@@ -1,6 +1,6 @@
 package com.hyperboat.daily.y2024.m07.d19;
 
-public class LC3096 {
+class LC3096 {
 
   // 前缀和问题
   public int minimumLevels(int[] possible) {

@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.基础;
 /*
  * https://leetcode.cn/problems/binary-gap/description/
  * */
-public class _868_二进制间距 {
+class _868_二进制间距 {
 
   class Solution {
 

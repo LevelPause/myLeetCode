@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.二叉树;
 /**
  * https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/?envType=study-plan-v2&envId=top-interview-150
  */
-public class _236二叉树的最近公共祖先 {
+class _236二叉树的最近公共祖先 {
 
   public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
     if (root == null || root == p || root == q) {

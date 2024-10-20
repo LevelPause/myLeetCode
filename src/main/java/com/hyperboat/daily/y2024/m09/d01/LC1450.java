@@ -1,6 +1,6 @@
 package com.hyperboat.daily.y2024.m09.d01;
 
-public class LC1450 {
+class LC1450 {
 
   class Solution {
 

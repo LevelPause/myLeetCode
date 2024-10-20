@@ -3,7 +3,7 @@ package com.hyperboat.daily.y2024.m08.d29;
 /*
  * https://leetcode.cn/problems/check-if-grid-satisfies-conditions/
  * */
-public class LC3142 {
+class LC3142 {
 
   class Solution {
 

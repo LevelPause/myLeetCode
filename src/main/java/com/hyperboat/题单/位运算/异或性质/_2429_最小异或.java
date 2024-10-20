@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.异或性质;
 /*
  * https://leetcode.cn/problems/minimize-xor/description/
  * */
-public class _2429_最小异或 {
+class _2429_最小异或 {
 
   static class Solution {
 

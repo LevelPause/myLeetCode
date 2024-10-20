@@ -3,17 +3,15 @@ package com.hyperboat.daily.y2024.m08.d20;
 import java.util.HashMap;
 import java.util.Map;
 
-public class LC3154 {
+class LC3154 {
 
   static class Solution {
 
-    int ans;
     Map<String, Integer> memo;
-
     public int waysToReachStair(int k) {
       memo = new HashMap<>();
-      dfs(false, 0, 1, k);
-      return ans;
+      return dfs(false, 0, 1, k);
+
     }
 
     public int dfs(boolean back, int jump, int i, int k) {

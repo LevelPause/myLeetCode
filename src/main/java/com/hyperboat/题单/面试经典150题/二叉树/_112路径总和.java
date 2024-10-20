@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.二叉树;
 /*
 https://leetcode.cn/problems/path-sum/?envType=study-plan-v2&envId=top-interview-150
  */
-public class _112路径总和 {
+class _112路径总和 {
 
   public boolean hasPathSum(TreeNode root, int targetSum) {
     if (root == null) {

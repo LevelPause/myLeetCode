@@ -5,7 +5,7 @@ import java.util.Arrays;
 /*
  * https://leetcode.cn/problems/sort-integers-by-the-number-of-1-bits/description/
  * */
-public class _1356_根据数字二进制下1的数目排序 {
+class _1356_根据数字二进制下1的数目排序 {
 
   class Solution {
 

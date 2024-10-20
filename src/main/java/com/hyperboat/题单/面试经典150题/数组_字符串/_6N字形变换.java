@@ -7,7 +7,7 @@ import java.util.List;
  * @author zhangweigang
  * @date 2023年10月22日
  */
-public class _6N字形变换 {
+class _6N字形变换 {
 
   //思路是对的, 换个更好的集合工具就好
   public String convert(String s, int numRows) {

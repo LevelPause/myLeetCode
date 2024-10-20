@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.多维动态规划;
 /*
  * https://leetcode.cn/problems/edit-distance/description/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _72编辑距离 {
+class _72编辑距离 {
 
   public int minDistance(String word1, String word2) {
     int m = word1.length();

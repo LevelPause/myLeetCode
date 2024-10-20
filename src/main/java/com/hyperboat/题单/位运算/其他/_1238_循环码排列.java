@@ -7,7 +7,7 @@ import java.util.List;
  * https://leetcode.cn/problems/circular-permutation-in-binary-representation/description/
  */
 
-public class _1238_循环码排列 {
+class _1238_循环码排列 {
 
   class Solution {
 

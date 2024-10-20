@@ -1,6 +1,6 @@
 package com.hyperboat.daily.y2024.m08.d14;
 
-public class LC3152 {
+class LC3152 {
 
   public boolean[] isArraySpecial(int[] nums, int[][] queries) {
     int n = nums.length;

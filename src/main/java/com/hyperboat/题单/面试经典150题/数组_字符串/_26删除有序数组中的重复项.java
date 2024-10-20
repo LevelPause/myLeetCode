@@ -4,7 +4,7 @@ package com.hyperboat.题单.面试经典150题.数组_字符串;
  * @author zhangweigang
  * @date 2023年10月18日 11:12
  */
-public class _26删除有序数组中的重复项 {
+class _26删除有序数组中的重复项 {
 
   //快慢双指针
   public int removeDuplicates(int[] nums) {

@@ -8,7 +8,7 @@ import java.util.Set;
 /*
  * https://leetcode.cn/problems/max-points-on-a-line/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _149直线上最多的点数 {
+class _149直线上最多的点数 {
 
   public int maxPoints(int[][] points) {
     int n = points.length;

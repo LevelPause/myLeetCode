@@ -1,6 +1,6 @@
 package com.hyperboat.竞赛.双周赛;
 
-public class Q3_Q4_放三个车的价值之和最大I {
+class Q3_Q4_放三个车的价值之和最大I {
 
   static class Solution {
 

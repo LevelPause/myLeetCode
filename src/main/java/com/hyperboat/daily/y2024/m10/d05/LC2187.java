@@ -3,7 +3,7 @@ package com.hyperboat.daily.y2024.m10.d05;
 /*
  * https://leetcode.cn/problems/minimum-time-to-complete-trips/description/
  * */
-public class LC2187 {
+class LC2187 {
 
   class Solution {
 

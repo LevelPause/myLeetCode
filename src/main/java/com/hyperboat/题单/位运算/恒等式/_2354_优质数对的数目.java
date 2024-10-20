@@ -6,7 +6,7 @@ import java.util.HashSet;
 /**
  * https://leetcode.cn/problems/number-of-excellent-pairs/description/
  */
-public class _2354_优质数对的数目 {
+class _2354_优质数对的数目 {
 
   class Solution {
 

@@ -3,7 +3,7 @@ package com.hyperboat.daily.y2024.m09.d26;
 /*
  * https://leetcode.cn/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/
  * */
-public class LC2535 {
+class LC2535 {
 
   class Solution {
 

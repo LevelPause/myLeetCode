@@ -7,7 +7,7 @@ import java.util.Map;
 /*
  * https://leetcode.cn/problems/count-pairs-of-points-with-distance-k/description/
  * */
-public class _2857_统计距离为k的点对 {
+class _2857_统计距离为k的点对 {
 
   class Solution {
 

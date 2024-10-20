@@ -3,7 +3,7 @@ package com.hyperboat.normal.medium;
 import java.util.HashMap;
 import java.util.Map;
 
-public class LC2316 {
+class LC2316 {
 
   //  利用并查集将所有连通量计算出来，然后用总组合数[Cn2]-每个连通量中的组合数[Cx2]，得到结果
   public long countPairs(int n, int[][] edges) {

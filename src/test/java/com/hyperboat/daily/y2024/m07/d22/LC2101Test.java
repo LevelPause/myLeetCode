@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
 
-class LC2101Test {
+public class LC2101Test {
 
   @Test
   void maximumDetonation() {

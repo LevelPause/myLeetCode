@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class LC1319 {
+class LC1319 {
 //  并查集，总需要绳子数==每个连通量最少需要绳子数+链接连通量需要绳子数
 //  操作次数==连通量-1；
 

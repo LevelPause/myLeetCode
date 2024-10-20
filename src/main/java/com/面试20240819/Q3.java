@@ -9,7 +9,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /*自定义注解实现依赖注入*/
-public class Q3 {
+class Q3 {
 
   public static class A {
 
@@ -83,7 +83,7 @@ public class Q3 {
         Field[] fields = clazz.getDeclaredFields();
         for (Field field : fields) {
           Dep annotation = field.getAnnotation(Dep.class);
-          if (!field.isAccessible()) {
+          if (!field.canAccess(instance)) {
             field.setAccessible(true);
           }
           if (annotation != null) {

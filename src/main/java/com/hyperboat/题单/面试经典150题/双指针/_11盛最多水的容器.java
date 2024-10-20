@@ -4,7 +4,7 @@ package com.hyperboat.题单.面试经典150题.双指针;
  * @author zhangweigang
  * @date 2023年10月23日
  */
-public class _11盛最多水的容器 {
+class _11盛最多水的容器 {
 
   //双指针, 无需多言, 注意移动指针的条件即可
   public int maxArea(int[] height) {

@@ -3,7 +3,7 @@ package com.hyperboat.daily.y2024.m09.d27;
 /*
  * https://leetcode.cn/problems/take-k-of-each-character-from-left-and-right/description/
  * */
-public class LC2516 {
+class LC2516 {
 
   // 正难则反, 正向考虑取字符是在字符串的两端, 不连续状态很多, 反过来想最终结果不取的字符串是连续的
   // 也就是在字符串s中取得一串最大长度的连续子串使得左右两端的子串中包含abc的次数都大于k

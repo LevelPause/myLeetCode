@@ -6,7 +6,7 @@ import java.util.Set;
 /*
  * https://leetcode.cn/problems/maximum-xor-of-two-numbers-in-an-array/description/
  * */
-public class _421_数组中两个数的最大异或值 {
+class _421_数组中两个数的最大异或值 {
 
   class Solution {
 

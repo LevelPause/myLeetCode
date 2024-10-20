@@ -5,7 +5,7 @@ import java.util.Arrays;
 /*
  * https://leetcode.cn/problems/maximum-points-inside-the-square/description/
  * */
-public class LC3143 {
+class LC3143 {
 
   public int maxPointsInsideSquare(int[][] points, String s) {
     int[] minArr = new int[26];

@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * https://leetcode.cn/problems/list-of-depth-lcci/?envType=study-plan-v2&envId=cracking-the-coding-interview
  */
-public class _04_03特定深度节点链表 {
+class _04_03特定深度节点链表 {
 
   public ListNode[] listOfDepth(TreeNode tree) {
     if (tree == null) {
@@ -37,7 +37,7 @@ public class _04_03特定深度节点链表 {
     return res.toArray(new ListNode[0]);
   }
 
-  public class TreeNode {
+  class TreeNode {
 
     int val;
     TreeNode left;
@@ -48,7 +48,7 @@ public class _04_03特定深度节点链表 {
     }
   }
 
-  public class ListNode {
+  class ListNode {
 
     int val;
     ListNode next;

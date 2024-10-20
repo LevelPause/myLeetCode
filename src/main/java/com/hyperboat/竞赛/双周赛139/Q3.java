@@ -5,7 +5,7 @@ import java.util.Arrays;
 /*
  * https://leetcode.cn/problems/find-the-maximum-sequence-value-of-array/description/
  * */
-public class Q3 {
+class Q3 {
 
   //todo 没有完全掌握, 有空再看看
   class Solution {

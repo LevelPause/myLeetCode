@@ -10,7 +10,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class _133克隆图 {
+class _133克隆图 {
 
   Map<Node, Node> source2Copy =new HashMap<>();
   Deque<Node> stack;

@@ -6,7 +6,7 @@ import java.util.Comparator;
 /*
  * https://leetcode.cn/problems/minimum-number-of-arrows-to-burst-balloons/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _452用最少数量的箭引爆气球 {
+class _452用最少数量的箭引爆气球 {
 
   public int findMinArrowShots(int[][] points) {
     Arrays.sort(points, Comparator.comparingInt(a -> a[1]));

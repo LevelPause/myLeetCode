@@ -1,7 +1,7 @@
 package com.hyperboat.daily.y2024.m07.d21;
 
 //  https://leetcode.cn/problems/maximum-subarray-sum-with-one-deletion/
-public class LC1186 {
+class LC1186 {
 
   //弄懂这个个基础是先学会求连续最大子数组(Kadane‘s算法): https://blog.csdn.net/weixin_43764974/article/details/134513506
 //  核心是dp[i] 表示以arr[i]结尾的最大子数组和，那么dp[i]的表示就只有两种可能

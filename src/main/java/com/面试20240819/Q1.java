@@ -15,7 +15,7 @@ import java.util.concurrent.TimeUnit;
  * 5.与其相似的还有埃式筛, 不过性能会差一点, 会出现重复枚举的情况
  * 6.线性筛的基本原理就是: 一个合数总能表示成比它小的两个数的乘积, 因此从小到大枚举, 将能表示为乘积的数标记为合数, 剩下的就是素数了
  * */
-public class Q1 {
+class Q1 {
 
   public int[] compute(int num) {
     boolean[] flags = new boolean[num + 1];

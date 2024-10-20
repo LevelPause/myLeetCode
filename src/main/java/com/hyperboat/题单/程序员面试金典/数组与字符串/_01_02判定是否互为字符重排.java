@@ -1,6 +1,6 @@
 package com.hyperboat.题单.程序员面试金典.数组与字符串;
 
-public class _01_02判定是否互为字符重排 {
+class _01_02判定是否互为字符重排 {
 
   public boolean CheckPermutation(String s1, String s2) {
     int m = s1.length();

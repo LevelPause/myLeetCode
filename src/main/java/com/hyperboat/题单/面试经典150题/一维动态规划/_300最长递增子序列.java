@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.一维动态规划;
 import java.util.ArrayList;
 import java.util.List;
 
-public class _300最长递增子序列 {
+class _300最长递增子序列 {
 
   public int lengthOfLIS(int[] nums) {
     int n = nums.length;

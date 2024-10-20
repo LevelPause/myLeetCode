@@ -6,7 +6,7 @@ import java.util.Map;
 /*
  * https://leetcode.cn/problems/find-the-number-of-good-pairs-ii/description/
  * */
-public class LC3164 {
+class LC3164 {
 
   class Solution {
 

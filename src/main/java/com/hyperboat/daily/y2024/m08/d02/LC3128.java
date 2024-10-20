@@ -3,7 +3,7 @@ package com.hyperboat.daily.y2024.m08.d02;
 /*
  * https://leetcode.cn/problems/right-triangles/
  * */
-public class LC3128 {
+class LC3128 {
 
   public long numberOfRightTriangles(int[][] grid) {
     int m = grid.length;

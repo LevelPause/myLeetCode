@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.多维动态规划;
 /*
  * https://leetcode.cn/problems/maximal-square/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _221最大正方形 {
+class _221最大正方形 {
 
   public int maximalSquare(char[][] matrix) {
     return dp2(matrix);

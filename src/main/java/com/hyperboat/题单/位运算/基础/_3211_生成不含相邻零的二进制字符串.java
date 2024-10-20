@@ -6,7 +6,7 @@ import java.util.List;
 /*
  * https://leetcode.cn/problems/generate-binary-strings-without-adjacent-zeros/description/
  * */
-public class _3211_生成不含相邻零的二进制字符串 {
+class _3211_生成不含相邻零的二进制字符串 {
 
   class Solution {
 

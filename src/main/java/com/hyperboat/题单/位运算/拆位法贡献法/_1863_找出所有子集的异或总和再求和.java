@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.拆位法贡献法;
 /*
  * https://leetcode.cn/problems/sum-of-all-subset-xor-totals/description/
  * */
-public class _1863_找出所有子集的异或总和再求和 {
+class _1863_找出所有子集的异或总和再求和 {
 
   class Solution {
 

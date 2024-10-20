@@ -1,6 +1,6 @@
 package com.hyperboat.题单.面试经典150题.二分查找;
 
-public class _35搜索插入位置 {
+class _35搜索插入位置 {
 
 
   public int searchInsert(int[] nums, int target) {

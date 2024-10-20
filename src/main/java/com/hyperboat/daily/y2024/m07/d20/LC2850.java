@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 //  https://leetcode.cn/problems/minimum-moves-to-spread-stones-over-grid/description/
-public class LC2850 {
+class LC2850 {
 
   // dfs 回溯   (提前剪枝的枚举)
   public int minimumMoves(int[][] grid) {

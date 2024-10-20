@@ -14,7 +14,7 @@ import java.util.List;
  * 如果列表为空（给定的节点是 null），需要创建一个循环有序列表并返回这个节点。否则。请返回原先给定的节点。
  * <p>
  */
-public class LCR029 {
+class LCR029 {
 
   public Node insert(Node head, int insertVal) {
     Node node = new Node(insertVal);

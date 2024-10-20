@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.其他;
 /**
  * https://leetcode.cn/problems/range-product-queries-of-powers/description/
  */
-public class _2438_二的幂数组中查询范围内的乘积 {
+class _2438_二的幂数组中查询范围内的乘积 {
 
   class Solution {
 

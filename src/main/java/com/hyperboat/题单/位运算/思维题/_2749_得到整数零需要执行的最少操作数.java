@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.思维题;
 /**
  * https://leetcode.cn/problems/minimum-operations-to-make-the-integer-zero/description/
  */
-public class _2749_得到整数零需要执行的最少操作数 {
+class _2749_得到整数零需要执行的最少操作数 {
 
   class Solution {
 

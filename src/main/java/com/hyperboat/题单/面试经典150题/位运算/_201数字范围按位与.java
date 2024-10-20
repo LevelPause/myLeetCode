@@ -4,7 +4,7 @@ package com.hyperboat.题单.面试经典150题.位运算;
  * https://leetcode.cn/problems/bitwise-and-of-numbers-range/?envType=study-plan-v2&envId=top-interview-150
  *
  * */
-public class _201数字范围按位与 {
+class _201数字范围按位与 {
 
   public int rangeBitwiseAnd(int left, int right) {
     return normal(left, right);

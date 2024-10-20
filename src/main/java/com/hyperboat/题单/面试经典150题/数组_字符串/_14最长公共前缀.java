@@ -4,7 +4,7 @@ package com.hyperboat.题单.面试经典150题.数组_字符串;
  * @author zhangweigang
  * @date 2023年10月22日
  */
-public class _14最长公共前缀 {
+class _14最长公共前缀 {
 
   //简单题!!!
   public String longestCommonPrefix(String[] strs) {

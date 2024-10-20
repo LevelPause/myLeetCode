@@ -6,7 +6,7 @@ import java.util.Deque;
 /*
  * https://leetcode.cn/problems/simplify-path/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _71简化路径 {
+class _71简化路径 {
 
   /*
    * 好蠢的题

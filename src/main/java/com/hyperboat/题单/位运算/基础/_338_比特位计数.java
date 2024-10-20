@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.基础;
 /*
  * https://leetcode.cn/problems/counting-bits/description/
  * */
-public class _338_比特位计数 {
+class _338_比特位计数 {
 
   class Solution {
 

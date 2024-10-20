@@ -7,7 +7,7 @@ import java.util.Map;
  * @author zhangweigang
  * @date 2023年10月19日 4:46
  */
-public class LC1726 {
+class LC1726 {
 
   public int tupleSameProduct(int[] nums) {
     int len = nums.length;

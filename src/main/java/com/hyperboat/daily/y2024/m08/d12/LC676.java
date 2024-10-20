@@ -3,7 +3,7 @@ package com.hyperboat.daily.y2024.m08.d12;
 /*
  * https://leetcode.cn/problems/implement-magic-dictionary/description/
  * */
-public class LC676 {
+class LC676 {
 
   Trie root;
 

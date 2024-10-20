@@ -1,6 +1,6 @@
 package com.hyperboat.题单.面试经典150题.矩阵;
 
-public class _289生命游戏 {
+class _289生命游戏 {
 
   public void gameOfLife(int[][] board) {
     int m = board.length;

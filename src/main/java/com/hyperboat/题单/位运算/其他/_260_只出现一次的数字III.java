@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.其他;
 /**
  * https://leetcode.cn/problems/single-number-iii/description/
  */
-public class _260_只出现一次的数字III {
+class _260_只出现一次的数字III {
 
   class Solution {
 

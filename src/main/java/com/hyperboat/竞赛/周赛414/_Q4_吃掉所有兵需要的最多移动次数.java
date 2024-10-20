@@ -9,7 +9,7 @@ import java.util.List;
 /*
  * https://leetcode.cn/problems/maximum-number-of-moves-to-kill-all-pawns/solutions/2909069/pai-lie-xing-zhuang-ya-dpxiang-lin-xiang-q49q/
  * */
-public class _Q4_吃掉所有兵需要的最多移动次数 {
+class _Q4_吃掉所有兵需要的最多移动次数 {
 
   //todo 排列型状压dp，没完全掌握
   static class Solution {

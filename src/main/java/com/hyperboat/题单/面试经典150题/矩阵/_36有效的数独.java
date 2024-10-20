@@ -1,6 +1,6 @@
 package com.hyperboat.题单.面试经典150题.矩阵;
 
-public class _36有效的数独 {
+class _36有效的数独 {
 
   // 判断每一个条件并满足
   public boolean isValidSudoku2(char[][] board) {

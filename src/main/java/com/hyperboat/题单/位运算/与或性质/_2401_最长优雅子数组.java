@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.与或性质;
 /*
  * https://leetcode.cn/problems/longest-nice-subarray/description/
  * */
-public class _2401_最长优雅子数组 {
+class _2401_最长优雅子数组 {
 
   class Solution {
 

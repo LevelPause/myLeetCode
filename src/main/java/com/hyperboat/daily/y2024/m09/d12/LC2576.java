@@ -5,7 +5,7 @@ import java.util.Arrays;
 /*
  * https://leetcode.cn/problems/find-the-maximum-number-of-marked-indices/description/
  * */
-public class LC2576 {
+class LC2576 {
 
   class Solution {
 

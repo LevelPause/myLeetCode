@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.其他;
 /**
  * https://leetcode.cn/problems/find-elements-in-a-contaminated-binary-tree/description/
  */
-public class _1261_在受污染的二叉树中查找元素 {
+class _1261_在受污染的二叉树中查找元素 {
 
   class FindElements {
 
@@ -29,7 +29,7 @@ public class _1261_在受污染的二叉树中查找元素 {
     }
 
 
-    public class TreeNode {
+    class TreeNode {
 
       int val;
       TreeNode left;

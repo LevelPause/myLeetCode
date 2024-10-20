@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.与或性质;
 /*
  * https://leetcode.cn/problems/maximum-or/description/
  * */
-public class _2680_最大或值 {
+class _2680_最大或值 {
 
   class Solution {
 

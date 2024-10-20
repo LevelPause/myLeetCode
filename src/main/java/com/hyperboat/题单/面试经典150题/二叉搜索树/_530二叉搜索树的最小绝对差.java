@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * https://leetcode.cn/problems/minimum-absolute-difference-in-bst/?envType=study-plan-v2&envId=top-interview-150
  */
-public class _530二叉搜索树的最小绝对差 {
+class _530二叉搜索树的最小绝对差 {
 
   int min = Integer.MAX_VALUE;
   List<Integer> nums = new ArrayList<>();

@@ -5,7 +5,7 @@ import java.util.Arrays;
 /*
  * https://leetcode.cn/contest/biweekly-contest-140/problems/maximize-the-total-height-of-unique-towers/description/
  * */
-public class _Q2_高度互不相同的最大塔高和 {
+class _Q2_高度互不相同的最大塔高和 {
 
   class Solution {
 

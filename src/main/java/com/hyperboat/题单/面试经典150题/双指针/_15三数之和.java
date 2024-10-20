@@ -8,7 +8,7 @@ import java.util.List;
  * @author zhangweigang
  * @date 2023年10月23日
  */
-public class _15三数之和 {
+class _15三数之和 {
 
   //狗屎题目,一堆边界判断
   public List<List<Integer>> threeSum(int[] nums) {

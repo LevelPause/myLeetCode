@@ -6,7 +6,7 @@ import java.util.Deque;
 /*
  * https://leetcode.cn/problems/sort-of-stacks-lcci/?envType=study-plan-v2&envId=cracking-the-coding-interview
  * */
-public class _03_05栈排序 {
+class _03_05栈排序 {
 
   Deque<Integer> stack;
   Deque<Integer> minStack;

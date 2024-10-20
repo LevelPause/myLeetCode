@@ -3,7 +3,7 @@ package com.hyperboat.daily.y2024.m09.d04;
 import java.util.Comparator;
 import java.util.List;
 
-public class LC2860 {
+class LC2860 {
 
   class Solution {
 

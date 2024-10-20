@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.基础;
 /*
  * https://leetcode.cn/problems/find-the-prefix-common-array-of-two-arrays/description/
  * */
-public class _2657_找到两个数组的前缀公共数组 {
+class _2657_找到两个数组的前缀公共数组 {
 
   class Solution {
 

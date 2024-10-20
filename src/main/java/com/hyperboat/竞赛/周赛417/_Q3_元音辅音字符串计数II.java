@@ -6,7 +6,7 @@ import java.util.Map;
 /*
  * https://leetcode.cn/contest/weekly-contest-417/problems/count-of-substrings-containing-every-vowel-and-k-consonants-i/description/
  * */
-public class _Q3_元音辅音字符串计数II {
+class _Q3_元音辅音字符串计数II {
 
   static class Solution {
 

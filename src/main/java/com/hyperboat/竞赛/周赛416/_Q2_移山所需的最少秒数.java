@@ -6,7 +6,7 @@ import java.util.PriorityQueue;
 /*
  * https://leetcode.cn/contest/weekly-contest-416/problems/minimum-number-of-seconds-to-make-mountain-height-zero/
  * */
-public class _Q2_移山所需的最少秒数 {
+class _Q2_移山所需的最少秒数 {
 
   static class Solution {
 

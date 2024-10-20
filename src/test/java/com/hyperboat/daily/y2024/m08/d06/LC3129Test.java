@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-class LC3129Test {
+public class LC3129Test {
 
   @Test
   void numberOfStableArrays() {

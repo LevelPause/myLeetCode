@@ -1,6 +1,6 @@
 package com.hyperboat.竞赛.双周赛138;
 
-public class _Q1_求出数字答案 {
+class _Q1_求出数字答案 {
 
   class Solution {
 

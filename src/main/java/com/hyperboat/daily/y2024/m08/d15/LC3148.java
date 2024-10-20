@@ -3,7 +3,7 @@ package com.hyperboat.daily.y2024.m08.d15;
 import java.util.Arrays;
 import java.util.List;
 
-public class LC3148 {
+class LC3148 {
 
   public int maxScore(List<List<Integer>> grid) {
     int m = grid.size();

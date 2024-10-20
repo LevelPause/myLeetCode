@@ -5,7 +5,7 @@ import java.util.Arrays;
 /*
  * https://leetcode.cn/problems/zero-matrix-lcci/?envType=study-plan-v2&envId=cracking-the-coding-interview
  * */
-public class _01_08零矩阵 {
+class _01_08零矩阵 {
 
   public void setZeroes(int[][] matrix) {
     set1(matrix);

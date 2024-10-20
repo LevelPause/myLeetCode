@@ -3,7 +3,7 @@ package com.hyperboat.daily.y2024.m10.d13;
 /*
  * https://leetcode.cn/problems/egg-drop-with-2-eggs-and-n-floors/description/
  * */
-public class LC1884 {
+class LC1884 {
 
   class Solution {
 

@@ -4,7 +4,7 @@ package com.hyperboat.normal.medium;
  * @author zhangweigang
  * @date 2023年10月18日 5:47
  */
-public class LC1594 {
+class LC1594 {
 
   public int maxProductPath(int[][] grid) {
     int mod = 1000000007;

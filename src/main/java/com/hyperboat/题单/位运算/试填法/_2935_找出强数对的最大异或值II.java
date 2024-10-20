@@ -5,7 +5,7 @@ import java.util.Arrays;
 /*
  * https://leetcode.cn/problems/maximum-strong-pair-xor-ii/description/
  * */
-public class _2935_找出强数对的最大异或值II {
+class _2935_找出强数对的最大异或值II {
 
   class Node {
 

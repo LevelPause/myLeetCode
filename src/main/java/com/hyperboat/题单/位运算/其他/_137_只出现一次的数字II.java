@@ -1,6 +1,6 @@
 package com.hyperboat.题单.位运算.其他;
 
-public class _137_只出现一次的数字II {
+class _137_只出现一次的数字II {
 
   class Solution {
 

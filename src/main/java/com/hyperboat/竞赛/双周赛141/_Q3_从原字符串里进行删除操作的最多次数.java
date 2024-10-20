@@ -3,7 +3,7 @@ package com.hyperboat.竞赛.双周赛141;
 /*
  * https://leetcode.cn/contest/biweekly-contest-141/problems/find-maximum-removals-from-source-string/description/
  * */
-public class _Q3_从原字符串里进行删除操作的最多次数 {
+class _Q3_从原字符串里进行删除操作的最多次数 {
 
   class Solution {
 

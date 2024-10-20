@@ -1,6 +1,6 @@
 package com.hyperboat.题单.面试经典150题.哈希表;
 
-public class _383赎金信 {
+class _383赎金信 {
 
   public boolean canConstruct(String ransomNote, String magazine) {
     if (ransomNote.length() > magazine.length()) {

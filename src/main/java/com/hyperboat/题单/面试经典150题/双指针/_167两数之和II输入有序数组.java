@@ -7,7 +7,7 @@ import java.util.Map;
  * @author zhangweigang
  * @date 2023年10月23日
  */
-public class _167两数之和II输入有序数组 {
+class _167两数之和II输入有序数组 {
 
   public int[] twoSum(int[] numbers, int target) {
     int[] res = new int[2];

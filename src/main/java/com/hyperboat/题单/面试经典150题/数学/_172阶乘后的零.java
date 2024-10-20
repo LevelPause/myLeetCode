@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.数学;
 /*
  * https://leetcode.cn/problems/factorial-trailing-zeroes/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _172阶乘后的零 {
+class _172阶乘后的零 {
 
   /*
    * 统计0的个数也就是统计 10 的个数， 10 可以分解为5*2，也就是统计(5,2)数对的个数

@@ -19,7 +19,7 @@ class Node {
     }
 }
 */
-public class _138随机链表的复制 {
+class _138随机链表的复制 {
 
   public Node copyRandomList(Node head) {
     return normal(head);

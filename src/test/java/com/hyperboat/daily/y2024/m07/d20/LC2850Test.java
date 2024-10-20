@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-class LC2850Test {
+public class LC2850Test {
 
   @Test
   void minimumMoves() {

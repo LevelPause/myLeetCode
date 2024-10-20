@@ -6,9 +6,9 @@ import java.util.List;
 /*
  * https://leetcode.cn/contest/weekly-contest-419/problems/k-th-largest-perfect-subtree-size-in-binary-tree/
  * */
-public class _Q2_第K大的完美二叉子树的大小 {
+class _Q2_第K大的完美二叉子树的大小 {
 
-  public class TreeNode {
+  class TreeNode {
 
     int val;
     TreeNode left;

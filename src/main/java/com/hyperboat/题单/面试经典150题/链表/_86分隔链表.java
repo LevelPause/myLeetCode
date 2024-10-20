@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.链表;
 /*
  * https://leetcode.cn/problems/partition-list/description/?envType=study-plan-v2&envId=top-interview-150
  * Definition for singly-linked list.
- * public class ListNode {
+ * class ListNode {
  *     int val;
  *     ListNode next;
  *     ListNode() {}
@@ -33,7 +33,7 @@ class _86分隔链表 {
     return smallDummy.next;
   }
 
-  public class ListNode {
+  class ListNode {
 
     int val;
     ListNode next;

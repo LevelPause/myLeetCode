@@ -3,7 +3,7 @@ package com.hyperboat.daily.y2024.m08.d08;
 /*
  * https://leetcode.cn/problems/find-the-integer-added-to-array-i/
  * */
-public class LC3131 {
+class LC3131 {
 
   public int addedInteger(int[] nums1, int[] nums2) {
     int n = nums1.length;

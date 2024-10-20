@@ -7,7 +7,7 @@ import java.util.TreeSet;
 /*
  * https://leetcode.cn/contest/weekly-contest-419/problems/find-x-sum-of-all-k-long-subarrays-i/description/
  * */
-public class _Q4_计算子数组的x_sum_II {
+class _Q4_计算子数组的x_sum_II {
 
 
   class Solution {

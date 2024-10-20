@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.位运算;
 /*
  * https://leetcode.cn/problems/single-number-ii/description/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _137只出现一次的数字II {
+class _137只出现一次的数字II {
 
   public int singleNumber(int[] nums) {
     int ans = 0;

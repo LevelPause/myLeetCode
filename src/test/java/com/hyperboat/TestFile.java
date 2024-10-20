@@ -9,7 +9,7 @@ import org.junit.jupiter.api.Test;
  * @author zhangweigang
  * @date 2022年07月04日 1:09
  */
-public class TestFile implements Runnable {
+class TestFile implements Runnable {
 
   @Test
   public void test() {

@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 //https://leetcode.cn/problems/longest-consecutive-sequence/description/?envType=study-plan-v2&envId=top-interview-150
-public class _128最长连续序列 {
+class _128最长连续序列 {
 
   public int longestConsecutive(int[] nums) {
     return withSort(nums);

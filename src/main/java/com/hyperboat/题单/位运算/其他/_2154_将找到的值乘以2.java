@@ -3,7 +3,7 @@ package com.hyperboat.题单.位运算.其他;
 /**
  * https://leetcode.cn/problems/keep-multiplying-found-values-by-two/description/
  */
-public class _2154_将找到的值乘以2 {
+class _2154_将找到的值乘以2 {
 
   class Solution {
 

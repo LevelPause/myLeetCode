@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class _Q3_选择矩阵中单元格的最大得分 {
+class _Q3_选择矩阵中单元格的最大得分 {
 
   class Solution {
 

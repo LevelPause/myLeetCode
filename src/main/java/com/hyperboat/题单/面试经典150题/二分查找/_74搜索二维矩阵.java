@@ -3,7 +3,7 @@ package com.hyperboat.题单.面试经典150题.二分查找;
 /*
  * https://leetcode.cn/problems/search-a-2d-matrix/?envType=study-plan-v2&envId=top-interview-150
  * */
-public class _74搜索二维矩阵 {
+class _74搜索二维矩阵 {
 
   public boolean searchMatrix(int[][] matrix, int target) {
     int m = matrix.length;

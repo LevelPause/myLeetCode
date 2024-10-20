@@ -6,7 +6,7 @@ import java.util.Deque;
 /**
  * https://leetcode.cn/problems/validate-binary-search-tree/?envType=study-plan-v2&envId=top-interview-150
  */
-public class _98验证二叉搜索树 {
+class _98验证二叉搜索树 {
 
   Deque<TreeNode> stack = new ArrayDeque<>();
 

@@ -3,7 +3,7 @@ package com.hyperboat.竞赛.周赛415;
 /*
  * https://leetcode.cn/contest/weekly-contest-415/problems/maximum-multiplication-score/
  * */
-public class Q2 {
+class Q2 {
 
   class Solution {
 
