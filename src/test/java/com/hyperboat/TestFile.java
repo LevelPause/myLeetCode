@@ -11,7 +11,7 @@ import org.junit.jupiter.api.Test;
  */
 class TestFile implements Runnable {
 
-  @Test
+//  @Test
   public void test() {
     for (int i = 0; i < 10; i++) {
       new TestFile().run();
@@ -25,12 +25,12 @@ class TestFile implements Runnable {
     } catch (InterruptedException e) {
       e.printStackTrace();
     }
-    File bat = new File("C:\\Users\\hyperboat\\Desktop\\testFile.bat");
-    System.out.println(bat.delete());
-    try (PrintWriter writer = new PrintWriter(bat)) {
-      writer.println("test file！");
-    } catch (FileNotFoundException e) {
-      e.printStackTrace();
-    }
+//    File bat = new File("C:\\Users\\hyperboat\\Desktop\\testFile.bat");
+//    System.out.println(bat.delete());
+//    try (PrintWriter writer = new PrintWriter(bat)) {
+//      writer.println("test file！");
+//    } catch (FileNotFoundException e) {
+//      e.printStackTrace();
+//    }
   }
 }

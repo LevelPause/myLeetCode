@@ -15,7 +15,7 @@ class _190颠倒二进制位 {
         break;
       }
       res += (n & 1) == 1 ? 1 << total : 0;
-      System.out.println(Integer.toBinaryString(res));
+//      System.out.println(Integer.toBinaryString(res));
       n >>= 1;
     }
     return res;
